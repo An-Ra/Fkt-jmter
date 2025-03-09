@@ -1,0 +1,1101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1741479449009,527,HTTP Request 100-120,200,OK,100-120 1-1,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,520,0,223
+1741479450144,400,HTTP Request 100-120,200,OK,100-120 1-2,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,400,0,77
+1741479451350,331,HTTP Request 100-120,200,OK,100-120 1-3,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,331,0,63
+1741479452553,324,HTTP Request 100-120,200,OK,100-120 1-4,text,true,,356,2376,1,1,https://lapor.folkatech.com/api/report,324,0,73
+1741479453750,378,HTTP Request 100-120,200,OK,100-120 1-5,text,true,,356,2304,1,1,https://lapor.folkatech.com/api/report,378,0,70
+1741479454949,511,HTTP Request 100-120,200,OK,100-120 1-6,text,true,,356,2352,1,1,https://lapor.folkatech.com/api/report,511,0,83
+1741479456150,437,HTTP Request 100-120,200,OK,100-120 1-7,text,true,,356,2400,1,1,https://lapor.folkatech.com/api/report,437,0,78
+1741479457354,461,HTTP Request 100-120,200,OK,100-120 1-8,text,true,,356,2364,1,1,https://lapor.folkatech.com/api/report,461,0,77
+1741479458550,354,HTTP Request 100-120,200,OK,100-120 1-9,text,true,,356,2412,1,1,https://lapor.folkatech.com/api/report,354,0,75
+1741479459746,354,HTTP Request 100-120,200,OK,100-120 1-10,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,354,0,77
+1741479460949,384,HTTP Request 100-120,200,OK,100-120 1-11,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,384,0,77
+1741479462150,333,HTTP Request 100-120,200,OK,100-120 1-12,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,333,0,75
+1741479463349,343,HTTP Request 100-120,200,OK,100-120 1-13,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,343,0,74
+1741479464546,350,HTTP Request 100-120,200,OK,100-120 1-14,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,350,0,80
+1741479465750,333,HTTP Request 100-120,200,OK,100-120 1-15,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,333,0,72
+1741479466949,312,HTTP Request 100-120,200,OK,100-120 1-16,text,true,,356,2376,1,1,https://lapor.folkatech.com/api/report,312,0,68
+1741479468149,414,HTTP Request 100-120,200,OK,100-120 1-17,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,414,0,68
+1741479469348,333,HTTP Request 100-120,200,OK,100-120 1-18,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,333,0,71
+1741479470549,373,HTTP Request 100-120,200,OK,100-120 1-19,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,373,0,65
+1741479471747,352,HTTP Request 100-120,200,OK,100-120 1-20,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,352,0,79
+1741479472947,354,HTTP Request 100-120,200,OK,100-120 1-21,text,true,,356,2304,1,1,https://lapor.folkatech.com/api/report,354,0,82
+1741479474149,459,HTTP Request 100-120,200,OK,100-120 1-22,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,459,0,70
+1741479475346,388,HTTP Request 100-120,200,OK,100-120 1-23,text,true,,356,2352,1,1,https://lapor.folkatech.com/api/report,388,0,77
+1741479476546,339,HTTP Request 100-120,200,OK,100-120 1-24,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,338,0,78
+1741479477746,323,HTTP Request 100-120,200,OK,100-120 1-25,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,323,0,73
+1741479478947,359,HTTP Request 100-120,200,OK,100-120 1-26,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,359,0,69
+1741479480149,500,HTTP Request 100-120,200,OK,100-120 1-27,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,500,0,80
+1741479481347,635,HTTP Request 100-120,200,OK,100-120 1-28,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,635,0,73
+1741479482547,460,HTTP Request 100-120,200,OK,100-120 1-29,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,460,0,80
+1741479483749,485,HTTP Request 100-120,200,OK,100-120 1-30,text,true,,356,2376,1,1,https://lapor.folkatech.com/api/report,485,0,69
+1741479484947,413,HTTP Request 100-120,200,OK,100-120 1-31,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,413,0,68
+1741479486148,441,HTTP Request 100-120,200,OK,100-120 1-32,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,441,0,61
+1741479487346,332,HTTP Request 100-120,200,OK,100-120 1-33,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,332,0,78
+1741479488546,398,HTTP Request 100-120,200,OK,100-120 1-34,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,398,0,77
+1741479489747,425,HTTP Request 100-120,200,OK,100-120 1-35,text,true,,356,2304,1,1,https://lapor.folkatech.com/api/report,425,0,73
+1741479490948,453,HTTP Request 100-120,200,OK,100-120 1-36,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,453,0,74
+1741479492149,386,HTTP Request 100-120,200,OK,100-120 1-37,text,true,,356,2412,1,1,https://lapor.folkatech.com/api/report,386,0,75
+1741479493345,411,HTTP Request 100-120,200,OK,100-120 1-38,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,411,0,72
+1741479494550,361,HTTP Request 100-120,200,OK,100-120 1-39,text,true,,356,2352,1,1,https://lapor.folkatech.com/api/report,361,0,74
+1741479495750,320,HTTP Request 100-120,200,OK,100-120 1-40,text,true,,356,2376,1,1,https://lapor.folkatech.com/api/report,320,0,73
+1741479496952,323,HTTP Request 100-120,200,OK,100-120 1-41,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,323,0,77
+1741479498146,316,HTTP Request 100-120,200,OK,100-120 1-42,text,true,,356,2364,1,1,https://lapor.folkatech.com/api/report,316,0,70
+1741479499346,335,HTTP Request 100-120,200,OK,100-120 1-43,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,335,0,63
+1741479500545,386,HTTP Request 100-120,200,OK,100-120 1-44,text,true,,356,2400,1,1,https://lapor.folkatech.com/api/report,386,0,65
+1741479501751,402,HTTP Request 100-120,200,OK,100-120 1-45,text,true,,356,2376,1,1,https://lapor.folkatech.com/api/report,402,0,63
+1741479502948,335,HTTP Request 100-120,200,OK,100-120 1-46,text,true,,356,2412,1,1,https://lapor.folkatech.com/api/report,335,0,79
+1741479504145,466,HTTP Request 100-120,200,OK,100-120 1-47,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,466,0,81
+1741479505344,329,HTTP Request 100-120,200,OK,100-120 1-48,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,329,0,78
+1741479506545,421,HTTP Request 100-120,200,OK,100-120 1-49,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,421,0,71
+1741479507747,448,HTTP Request 100-120,200,OK,100-120 1-50,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,448,0,74
+1741479508951,370,HTTP Request 100-120,200,OK,100-120 1-51,text,true,,356,2352,1,1,https://lapor.folkatech.com/api/report,370,0,74
+1741479510150,400,HTTP Request 100-120,200,OK,100-120 1-52,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,400,0,77
+1741479511351,338,HTTP Request 100-120,200,OK,100-120 1-53,text,true,,356,2352,1,1,https://lapor.folkatech.com/api/report,338,0,78
+1741479512551,345,HTTP Request 100-120,200,OK,100-120 1-54,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,345,0,74
+1741479513751,325,HTTP Request 100-120,200,OK,100-120 1-55,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,324,0,74
+1741479514950,414,HTTP Request 100-120,200,OK,100-120 1-56,text,true,,356,2352,1,1,https://lapor.folkatech.com/api/report,414,0,74
+1741479516150,443,HTTP Request 100-120,200,OK,100-120 1-57,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,442,0,74
+1741479517350,369,HTTP Request 100-120,200,OK,100-120 1-58,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,368,0,78
+1741479518552,337,HTTP Request 100-120,200,OK,100-120 1-59,text,true,,356,2304,1,1,https://lapor.folkatech.com/api/report,337,0,78
+1741479519749,351,HTTP Request 100-120,200,OK,100-120 1-60,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,351,0,72
+1741479520951,349,HTTP Request 100-120,200,OK,100-120 1-61,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,349,0,65
+1741479522146,395,HTTP Request 100-120,200,OK,100-120 1-62,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,389,0,69
+1741479523397,465,HTTP Request 100-120,200,OK,100-120 1-63,text,true,,356,2412,1,1,https://lapor.folkatech.com/api/report,464,0,85
+1741479524549,543,HTTP Request 100-120,200,OK,100-120 1-64,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,542,0,81
+1741479525748,368,HTTP Request 100-120,200,OK,100-120 1-65,text,true,,356,2376,1,1,https://lapor.folkatech.com/api/report,368,0,60
+1741479526949,314,HTTP Request 100-120,200,OK,100-120 1-66,text,true,,356,2304,1,1,https://lapor.folkatech.com/api/report,314,0,67
+1741479528146,306,HTTP Request 100-120,200,OK,100-120 1-67,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,306,0,54
+1741479529350,349,HTTP Request 100-120,200,OK,100-120 1-68,text,true,,356,2364,1,1,https://lapor.folkatech.com/api/report,349,0,65
+1741479530545,383,HTTP Request 100-120,200,OK,100-120 1-69,text,true,,356,2352,1,1,https://lapor.folkatech.com/api/report,383,0,65
+1741479531746,337,HTTP Request 100-120,200,OK,100-120 1-70,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,337,0,75
+1741479532948,438,HTTP Request 100-120,200,OK,100-120 1-71,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,438,0,72
+1741479534147,336,HTTP Request 100-120,200,OK,100-120 1-72,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,336,0,60
+1741479535350,494,HTTP Request 100-120,200,OK,100-120 1-73,text,true,,356,2412,1,1,https://lapor.folkatech.com/api/report,494,0,73
+1741479536544,331,HTTP Request 100-120,200,OK,100-120 1-74,text,true,,356,2364,1,1,https://lapor.folkatech.com/api/report,331,0,66
+1741479537750,448,HTTP Request 100-120,200,OK,100-120 1-75,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,448,0,72
+1741479538947,378,HTTP Request 100-120,200,OK,100-120 1-76,text,true,,356,2412,1,1,https://lapor.folkatech.com/api/report,378,0,62
+1741479540149,363,HTTP Request 100-120,200,OK,100-120 1-77,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,363,0,70
+1741479541348,606,HTTP Request 100-120,200,OK,100-120 1-78,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,606,0,67
+1741479542546,465,HTTP Request 100-120,200,OK,100-120 1-79,text,true,,356,2352,1,1,https://lapor.folkatech.com/api/report,465,0,74
+1741479543751,331,HTTP Request 100-120,200,OK,100-120 1-80,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,331,0,61
+1741479544945,322,HTTP Request 100-120,200,OK,100-120 1-81,text,true,,356,2352,1,1,https://lapor.folkatech.com/api/report,322,0,66
+1741479546147,334,HTTP Request 100-120,200,OK,100-120 1-82,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,334,0,67
+1741479547347,375,HTTP Request 100-120,200,OK,100-120 1-83,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,374,0,66
+1741479548551,400,HTTP Request 100-120,200,OK,100-120 1-84,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,399,0,71
+1741479549746,432,HTTP Request 100-120,200,OK,100-120 1-85,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,432,0,72
+1741479550947,358,HTTP Request 100-120,200,OK,100-120 1-86,text,true,,356,2352,1,1,https://lapor.folkatech.com/api/report,358,0,76
+1741479552147,490,HTTP Request 100-120,200,OK,100-120 1-87,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,489,0,74
+1741479553350,381,HTTP Request 100-120,200,OK,100-120 1-88,text,true,,356,2352,1,1,https://lapor.folkatech.com/api/report,381,0,70
+1741479554543,346,HTTP Request 100-120,200,OK,100-120 1-89,text,true,,356,2400,1,1,https://lapor.folkatech.com/api/report,346,0,65
+1741479555746,309,HTTP Request 100-120,200,OK,100-120 1-90,text,true,,356,2304,1,1,https://lapor.folkatech.com/api/report,309,0,61
+1741479556944,403,HTTP Request 100-120,200,OK,100-120 1-91,text,true,,356,2412,1,1,https://lapor.folkatech.com/api/report,403,0,68
+1741479558150,426,HTTP Request 100-120,200,OK,100-120 1-92,text,true,,356,2364,1,1,https://lapor.folkatech.com/api/report,426,0,64
+1741479559353,453,HTTP Request 100-120,200,OK,100-120 1-93,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,453,0,74
+1741479560545,329,HTTP Request 100-120,200,OK,100-120 1-94,text,true,,356,2364,1,1,https://lapor.folkatech.com/api/report,329,0,74
+1741479561751,346,HTTP Request 100-120,200,OK,100-120 1-95,text,true,,356,2376,1,1,https://lapor.folkatech.com/api/report,346,0,66
+1741479562944,342,HTTP Request 100-120,200,OK,100-120 1-96,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,342,0,66
+1741479564145,370,HTTP Request 100-120,200,OK,100-120 1-97,text,true,,356,2376,1,1,https://lapor.folkatech.com/api/report,370,0,64
+1741479565349,345,HTTP Request 100-120,200,OK,100-120 1-98,text,true,,356,2364,1,1,https://lapor.folkatech.com/api/report,345,0,67
+1741479566543,318,HTTP Request 100-120,200,OK,100-120 1-99,text,true,,356,2376,1,1,https://lapor.folkatech.com/api/report,318,0,70
+1741479567743,458,HTTP Request 100-120,200,OK,100-120 1-100,text,true,,356,2376,1,1,https://lapor.folkatech.com/api/report,458,0,67
+1741479573217,327,HTTP Request 100-60,200,OK,100-60 2-1,text,true,,356,2376,1,1,https://lapor.folkatech.com/api/report,327,0,90
+1741479573812,298,HTTP Request 100-60,200,OK,100-60 2-2,text,true,,356,2412,1,1,https://lapor.folkatech.com/api/report,298,0,62
+1741479574414,344,HTTP Request 100-60,200,OK,100-60 2-3,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,344,0,63
+1741479575018,307,HTTP Request 100-60,200,OK,100-60 2-4,text,true,,356,2304,1,1,https://lapor.folkatech.com/api/report,307,0,70
+1741479575616,311,HTTP Request 100-60,200,OK,100-60 2-5,text,true,,356,2304,1,1,https://lapor.folkatech.com/api/report,311,0,74
+1741479576217,309,HTTP Request 100-60,200,OK,100-60 2-6,text,true,,356,2352,1,1,https://lapor.folkatech.com/api/report,308,0,74
+1741479576812,323,HTTP Request 100-60,200,OK,100-60 2-7,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,322,0,71
+1741479577413,323,HTTP Request 100-60,200,OK,100-60 2-8,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,323,0,66
+1741479578016,304,HTTP Request 100-60,200,OK,100-60 2-9,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,304,0,70
+1741479578613,443,HTTP Request 100-60,200,OK,100-60 2-10,text,true,,356,2400,1,1,https://lapor.folkatech.com/api/report,443,0,74
+1741479579214,559,HTTP Request 100-60,200,OK,100-60 2-11,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,559,0,64
+1741479579816,344,HTTP Request 100-60,200,OK,100-60 2-12,text,true,,356,2352,1,1,https://lapor.folkatech.com/api/report,344,0,72
+1741479580414,311,HTTP Request 100-60,200,OK,100-60 2-13,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,311,0,66
+1741479581019,351,HTTP Request 100-60,200,OK,100-60 2-14,text,true,,356,2304,1,1,https://lapor.folkatech.com/api/report,351,0,79
+1741479581613,321,HTTP Request 100-60,200,OK,100-60 2-15,text,true,,356,2376,1,1,https://lapor.folkatech.com/api/report,321,0,75
+1741479582215,341,HTTP Request 100-60,200,OK,100-60 2-16,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,341,0,64
+1741479582813,441,HTTP Request 100-60,200,OK,100-60 2-17,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,441,0,67
+1741479583411,300,HTTP Request 100-60,200,OK,100-60 2-18,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,300,0,58
+1741479584014,307,HTTP Request 100-60,200,OK,100-60 2-19,text,true,,356,2304,1,1,https://lapor.folkatech.com/api/report,307,0,59
+1741479584618,377,HTTP Request 100-60,200,OK,100-60 2-20,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,377,0,70
+1741479585218,311,HTTP Request 100-60,200,OK,100-60 2-21,text,true,,356,2412,1,1,https://lapor.folkatech.com/api/report,311,0,67
+1741479585812,322,HTTP Request 100-60,200,OK,100-60 2-22,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,322,0,62
+1741479586420,287,HTTP Request 100-60,200,OK,100-60 2-23,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,287,0,67
+1741479587014,277,HTTP Request 100-60,200,OK,100-60 2-24,text,true,,356,2400,1,1,https://lapor.folkatech.com/api/report,277,0,58
+1741479587617,294,HTTP Request 100-60,200,OK,100-60 2-25,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,294,0,64
+1741479588217,320,HTTP Request 100-60,200,OK,100-60 2-26,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,320,0,75
+1741479588816,313,HTTP Request 100-60,200,OK,100-60 2-27,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,313,0,63
+1741479589416,290,HTTP Request 100-60,200,OK,100-60 2-28,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,290,0,64
+1741479590015,278,HTTP Request 100-60,200,OK,100-60 2-29,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,278,0,61
+1741479590616,290,HTTP Request 100-60,200,OK,100-60 2-30,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,290,0,62
+1741479591211,308,HTTP Request 100-60,200,OK,100-60 2-31,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,308,0,66
+1741479591816,329,HTTP Request 100-60,200,OK,100-60 2-32,text,true,,356,2400,1,1,https://lapor.folkatech.com/api/report,329,0,68
+1741479592414,337,HTTP Request 100-60,200,OK,100-60 2-33,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,337,0,78
+1741479593012,302,HTTP Request 100-60,200,OK,100-60 2-34,text,true,,356,2352,1,1,https://lapor.folkatech.com/api/report,302,0,66
+1741479593613,324,HTTP Request 100-60,200,OK,100-60 2-35,text,true,,356,2352,1,1,https://lapor.folkatech.com/api/report,324,0,77
+1741479594216,316,HTTP Request 100-60,200,OK,100-60 2-36,text,true,,356,2364,1,1,https://lapor.folkatech.com/api/report,315,0,65
+1741479594817,329,HTTP Request 100-60,200,OK,100-60 2-37,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,329,0,70
+1741479595416,293,HTTP Request 100-60,200,OK,100-60 2-38,text,true,,356,2412,1,1,https://lapor.folkatech.com/api/report,293,0,63
+1741479596016,325,HTTP Request 100-60,200,OK,100-60 2-39,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,324,0,70
+1741479596616,324,HTTP Request 100-60,200,OK,100-60 2-40,text,true,,356,2304,1,1,https://lapor.folkatech.com/api/report,323,0,70
+1741479597211,320,HTTP Request 100-60,200,OK,100-60 2-41,text,true,,356,2412,1,1,https://lapor.folkatech.com/api/report,320,0,70
+1741479597819,320,HTTP Request 100-60,200,OK,100-60 2-42,text,true,,356,2364,1,1,https://lapor.folkatech.com/api/report,320,0,72
+1741479598411,305,HTTP Request 100-60,200,OK,100-60 2-43,text,true,,356,2400,1,1,https://lapor.folkatech.com/api/report,305,0,62
+1741479599016,418,HTTP Request 100-60,200,OK,100-60 2-44,text,true,,356,2412,1,1,https://lapor.folkatech.com/api/report,418,0,68
+1741479599618,306,HTTP Request 100-60,200,OK,100-60 2-45,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,306,0,63
+1741479600214,448,HTTP Request 100-60,200,OK,100-60 2-46,text,true,,356,2412,1,1,https://lapor.folkatech.com/api/report,448,0,70
+1741479600816,358,HTTP Request 100-60,200,OK,100-60 2-47,text,true,,356,2352,1,1,https://lapor.folkatech.com/api/report,358,0,59
+1741479601418,397,HTTP Request 100-60,200,OK,100-60 2-48,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,397,0,63
+1741479602016,464,HTTP Request 100-60,200,OK,100-60 2-49,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,464,0,63
+1741479602614,442,HTTP Request 100-60,200,OK,100-60 2-50,text,true,,356,2304,1,1,https://lapor.folkatech.com/api/report,441,0,67
+1741479603212,420,HTTP Request 100-60,200,OK,100-60 2-51,text,true,,355,2316,1,1,https://lapor.folkatech.com/api/report,420,0,60
+1741479603812,369,HTTP Request 100-60,200,OK,100-60 2-52,text,true,,355,2304,1,1,https://lapor.folkatech.com/api/report,369,0,72
+1741479604416,445,HTTP Request 100-60,200,OK,100-60 2-53,text,true,,355,2376,1,1,https://lapor.folkatech.com/api/report,445,0,59
+1741479605016,459,HTTP Request 100-60,200,OK,100-60 2-54,text,true,,355,2328,1,1,https://lapor.folkatech.com/api/report,459,0,69
+1741479605617,309,HTTP Request 100-60,200,OK,100-60 2-55,text,true,,355,2424,1,1,https://lapor.folkatech.com/api/report,309,0,64
+1741479606211,313,HTTP Request 100-60,200,OK,100-60 2-56,text,true,,355,2340,1,1,https://lapor.folkatech.com/api/report,313,0,64
+1741479606817,310,HTTP Request 100-60,200,OK,100-60 2-57,text,true,,355,2340,1,1,https://lapor.folkatech.com/api/report,310,0,70
+1741479607416,322,HTTP Request 100-60,200,OK,100-60 2-58,text,true,,355,2412,1,1,https://lapor.folkatech.com/api/report,322,0,71
+1741479608013,299,HTTP Request 100-60,200,OK,100-60 2-59,text,true,,355,2400,1,1,https://lapor.folkatech.com/api/report,299,0,63
+1741479608618,311,HTTP Request 100-60,200,OK,100-60 2-60,text,true,,355,2304,1,1,https://lapor.folkatech.com/api/report,310,0,66
+1741479609215,117,HTTP Request 100-60,429,Too Many Requests,100-60 2-61,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,116,0,75
+1741479609814,101,HTTP Request 100-60,429,Too Many Requests,100-60 2-62,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,101,0,61
+1741479610414,124,HTTP Request 100-60,429,Too Many Requests,100-60 2-63,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,124,0,74
+1741479611014,122,HTTP Request 100-60,429,Too Many Requests,100-60 2-64,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,122,0,77
+1741479611613,112,HTTP Request 100-60,429,Too Many Requests,100-60 2-65,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,112,0,73
+1741479612217,113,HTTP Request 100-60,429,Too Many Requests,100-60 2-66,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,113,0,69
+1741479612812,112,HTTP Request 100-60,429,Too Many Requests,100-60 2-67,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,111,0,69
+1741479613414,112,HTTP Request 100-60,429,Too Many Requests,100-60 2-68,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,112,0,72
+1741479614018,111,HTTP Request 100-60,429,Too Many Requests,100-60 2-69,text,false,,7001,2340,1,1,https://lapor.folkatech.com/api/report,111,0,72
+1741479614617,108,HTTP Request 100-60,429,Too Many Requests,100-60 2-70,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,107,0,68
+1741479615216,116,HTTP Request 100-60,429,Too Many Requests,100-60 2-71,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,115,0,72
+1741479615816,106,HTTP Request 100-60,429,Too Many Requests,100-60 2-72,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,106,0,68
+1741479616415,101,HTTP Request 100-60,429,Too Many Requests,100-60 2-73,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,101,0,63
+1741479617015,112,HTTP Request 100-60,429,Too Many Requests,100-60 2-74,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,112,0,71
+1741479617614,114,HTTP Request 100-60,429,Too Many Requests,100-60 2-75,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,114,0,73
+1741479618216,120,HTTP Request 100-60,429,Too Many Requests,100-60 2-76,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,120,0,75
+1741479618816,103,HTTP Request 100-60,429,Too Many Requests,100-60 2-77,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,103,0,64
+1741479619417,111,HTTP Request 100-60,429,Too Many Requests,100-60 2-78,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,111,0,71
+1741479620016,117,HTTP Request 100-60,429,Too Many Requests,100-60 2-79,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,117,0,75
+1741479620615,112,HTTP Request 100-60,429,Too Many Requests,100-60 2-80,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,112,0,67
+1741479621217,106,HTTP Request 100-60,429,Too Many Requests,100-60 2-81,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,105,0,63
+1741479621816,109,HTTP Request 100-60,429,Too Many Requests,100-60 2-82,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,109,0,70
+1741479622417,108,HTTP Request 100-60,429,Too Many Requests,100-60 2-83,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,108,0,68
+1741479623017,110,HTTP Request 100-60,429,Too Many Requests,100-60 2-84,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,110,0,67
+1741479623618,111,HTTP Request 100-60,429,Too Many Requests,100-60 2-85,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,111,0,71
+1741479624219,117,HTTP Request 100-60,429,Too Many Requests,100-60 2-86,text,false,,6994,2400,1,1,https://lapor.folkatech.com/api/report,117,0,76
+1741479624817,103,HTTP Request 100-60,429,Too Many Requests,100-60 2-87,text,false,,6994,2364,1,1,https://lapor.folkatech.com/api/report,103,0,62
+1741479625415,100,HTTP Request 100-60,429,Too Many Requests,100-60 2-88,text,false,,6994,2424,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479626015,113,HTTP Request 100-60,429,Too Many Requests,100-60 2-89,text,false,,6994,2316,1,1,https://lapor.folkatech.com/api/report,113,0,75
+1741479626619,109,HTTP Request 100-60,429,Too Many Requests,100-60 2-90,text,false,,6994,2352,1,1,https://lapor.folkatech.com/api/report,109,0,71
+1741479627218,115,HTTP Request 100-60,429,Too Many Requests,100-60 2-91,text,false,,6994,2352,1,1,https://lapor.folkatech.com/api/report,115,0,75
+1741479627819,115,HTTP Request 100-60,429,Too Many Requests,100-60 2-92,text,false,,6994,2304,1,1,https://lapor.folkatech.com/api/report,115,0,74
+1741479628416,108,HTTP Request 100-60,429,Too Many Requests,100-60 2-93,text,false,,6994,2316,1,1,https://lapor.folkatech.com/api/report,107,0,65
+1741479629015,100,HTTP Request 100-60,429,Too Many Requests,100-60 2-94,text,false,,6994,2400,1,1,https://lapor.folkatech.com/api/report,100,0,63
+1741479629617,104,HTTP Request 100-60,429,Too Many Requests,100-60 2-95,text,false,,6994,2364,1,1,https://lapor.folkatech.com/api/report,104,0,65
+1741479630218,111,HTTP Request 100-60,429,Too Many Requests,100-60 2-96,text,false,,6994,2352,1,1,https://lapor.folkatech.com/api/report,110,0,69
+1741479630812,114,HTTP Request 100-60,429,Too Many Requests,100-60 2-97,text,false,,6994,2400,1,1,https://lapor.folkatech.com/api/report,114,0,75
+1741479631419,115,HTTP Request 100-60,429,Too Many Requests,100-60 2-98,text,false,,6994,2316,1,1,https://lapor.folkatech.com/api/report,115,0,74
+1741479632014,116,HTTP Request 100-60,429,Too Many Requests,100-60 2-99,text,false,,6994,2364,1,1,https://lapor.folkatech.com/api/report,116,0,73
+1741479632617,101,HTTP Request 100-60,429,Too Many Requests,100-60 2-100,text,false,,6994,2352,1,1,https://lapor.folkatech.com/api/report,101,0,63
+1741479637727,323,HTTP Request 100-30,200,OK,100-30 3-1,text,true,,356,2328,2,2,https://lapor.folkatech.com/api/report,323,0,86
+1741479638032,305,HTTP Request 100-30,200,OK,100-30 3-2,text,true,,356,2364,2,2,https://lapor.folkatech.com/api/report,305,0,63
+1741479638332,322,HTTP Request 100-30,200,OK,100-30 3-3,text,true,,356,2316,2,2,https://lapor.folkatech.com/api/report,321,0,66
+1741479638630,322,HTTP Request 100-30,200,OK,100-30 3-4,text,true,,356,2400,2,2,https://lapor.folkatech.com/api/report,322,0,68
+1741479638931,305,HTTP Request 100-30,200,OK,100-30 3-5,text,true,,356,2316,2,2,https://lapor.folkatech.com/api/report,305,0,60
+1741479639231,297,HTTP Request 100-30,200,OK,100-30 3-6,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,297,0,65
+1741479639530,353,HTTP Request 100-30,200,OK,100-30 3-7,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,353,0,62
+1741479639831,337,HTTP Request 100-30,200,OK,100-30 3-8,text,true,,356,2316,2,2,https://lapor.folkatech.com/api/report,337,0,59
+1741479640133,341,HTTP Request 100-30,200,OK,100-30 3-9,text,true,,356,2388,2,2,https://lapor.folkatech.com/api/report,340,0,61
+1741479640427,385,HTTP Request 100-30,200,OK,100-30 3-10,text,true,,356,2400,2,2,https://lapor.folkatech.com/api/report,385,0,61
+1741479640732,412,HTTP Request 100-30,200,OK,100-30 3-11,text,true,,356,2316,2,2,https://lapor.folkatech.com/api/report,411,0,70
+1741479641027,412,HTTP Request 100-30,200,OK,100-30 3-12,text,true,,356,2316,2,2,https://lapor.folkatech.com/api/report,412,0,60
+1741479641331,453,HTTP Request 100-30,200,OK,100-30 3-13,text,true,,356,2328,2,2,https://lapor.folkatech.com/api/report,453,0,67
+1741479641628,334,HTTP Request 100-30,200,OK,100-30 3-14,text,true,,356,2328,2,2,https://lapor.folkatech.com/api/report,334,0,65
+1741479641928,315,HTTP Request 100-30,200,OK,100-30 3-15,text,true,,356,2424,2,2,https://lapor.folkatech.com/api/report,315,0,61
+1741479642232,321,HTTP Request 100-30,200,OK,100-30 3-16,text,true,,356,2424,2,2,https://lapor.folkatech.com/api/report,321,0,63
+1741479642523,308,HTTP Request 100-30,200,OK,100-30 3-17,text,true,,356,2304,2,2,https://lapor.folkatech.com/api/report,308,0,63
+1741479642827,320,HTTP Request 100-30,200,OK,100-30 3-18,text,true,,356,2388,2,2,https://lapor.folkatech.com/api/report,320,0,62
+1741479643127,351,HTTP Request 100-30,200,OK,100-30 3-19,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,351,0,61
+1741479643428,342,HTTP Request 100-30,200,OK,100-30 3-20,text,true,,356,2364,2,2,https://lapor.folkatech.com/api/report,342,0,65
+1741479643732,317,HTTP Request 100-30,200,OK,100-30 3-21,text,true,,356,2304,2,2,https://lapor.folkatech.com/api/report,317,0,62
+1741479644029,306,HTTP Request 100-30,200,OK,100-30 3-22,text,true,,356,2388,2,2,https://lapor.folkatech.com/api/report,306,0,62
+1741479644332,318,HTTP Request 100-30,200,OK,100-30 3-23,text,true,,356,2304,2,2,https://lapor.folkatech.com/api/report,318,0,66
+1741479644632,348,HTTP Request 100-30,200,OK,100-30 3-24,text,true,,356,2316,2,2,https://lapor.folkatech.com/api/report,348,0,65
+1741479644932,316,HTTP Request 100-30,200,OK,100-30 3-25,text,true,,356,2424,2,2,https://lapor.folkatech.com/api/report,316,0,63
+1741479645232,328,HTTP Request 100-30,200,OK,100-30 3-26,text,true,,356,2424,2,2,https://lapor.folkatech.com/api/report,328,0,70
+1741479645528,315,HTTP Request 100-30,200,OK,100-30 3-27,text,true,,356,2424,2,2,https://lapor.folkatech.com/api/report,315,0,69
+1741479645830,312,HTTP Request 100-30,200,OK,100-30 3-28,text,true,,356,2400,2,2,https://lapor.folkatech.com/api/report,312,0,65
+1741479646132,315,HTTP Request 100-30,200,OK,100-30 3-29,text,true,,356,2364,2,2,https://lapor.folkatech.com/api/report,315,0,66
+1741479646432,317,HTTP Request 100-30,200,OK,100-30 3-30,text,true,,356,2388,2,2,https://lapor.folkatech.com/api/report,316,0,64
+1741479646727,317,HTTP Request 100-30,200,OK,100-30 3-31,text,true,,356,2376,2,2,https://lapor.folkatech.com/api/report,317,0,61
+1741479647034,325,HTTP Request 100-30,200,OK,100-30 3-32,text,true,,356,2340,2,2,https://lapor.folkatech.com/api/report,325,0,65
+1741479647331,350,HTTP Request 100-30,200,OK,100-30 3-33,text,true,,356,2328,2,2,https://lapor.folkatech.com/api/report,350,0,66
+1741479647628,320,HTTP Request 100-30,200,OK,100-30 3-34,text,true,,356,2304,2,2,https://lapor.folkatech.com/api/report,320,0,64
+1741479647932,311,HTTP Request 100-30,200,OK,100-30 3-35,text,true,,356,2376,2,2,https://lapor.folkatech.com/api/report,310,0,70
+1741479648230,330,HTTP Request 100-30,200,OK,100-30 3-36,text,true,,356,2352,2,2,https://lapor.folkatech.com/api/report,330,0,63
+1741479648530,308,HTTP Request 100-30,200,OK,100-30 3-37,text,true,,356,2364,2,2,https://lapor.folkatech.com/api/report,308,0,68
+1741479648830,289,HTTP Request 100-30,200,OK,100-30 3-38,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,289,0,67
+1741479649132,313,HTTP Request 100-30,200,OK,100-30 3-39,text,true,,356,2388,2,2,https://lapor.folkatech.com/api/report,313,0,63
+1741479649427,321,HTTP Request 100-30,200,OK,100-30 3-40,text,true,,356,2328,2,2,https://lapor.folkatech.com/api/report,321,0,62
+1741479649733,328,HTTP Request 100-30,200,OK,100-30 3-41,text,true,,356,2376,2,2,https://lapor.folkatech.com/api/report,328,0,60
+1741479650032,314,HTTP Request 100-30,200,OK,100-30 3-42,text,true,,356,2316,2,2,https://lapor.folkatech.com/api/report,313,0,66
+1741479650331,297,HTTP Request 100-30,200,OK,100-30 3-43,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,296,0,65
+1741479650628,303,HTTP Request 100-30,200,OK,100-30 3-44,text,true,,356,2340,2,2,https://lapor.folkatech.com/api/report,303,0,64
+1741479650929,357,HTTP Request 100-30,200,OK,100-30 3-45,text,true,,356,2388,2,2,https://lapor.folkatech.com/api/report,357,0,69
+1741479651232,322,HTTP Request 100-30,200,OK,100-30 3-46,text,true,,356,2340,2,2,https://lapor.folkatech.com/api/report,322,0,70
+1741479651528,307,HTTP Request 100-30,200,OK,100-30 3-47,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,307,0,61
+1741479651827,303,HTTP Request 100-30,200,OK,100-30 3-48,text,true,,356,2424,2,2,https://lapor.folkatech.com/api/report,303,0,70
+1741479652125,287,HTTP Request 100-30,200,OK,100-30 3-49,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,287,0,61
+1741479652427,293,HTTP Request 100-30,200,OK,100-30 3-50,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,293,0,63
+1741479652731,313,HTTP Request 100-30,200,OK,100-30 3-51,text,true,,355,2340,2,2,https://lapor.folkatech.com/api/report,313,0,66
+1741479653029,284,HTTP Request 100-30,200,OK,100-30 3-52,text,true,,355,2340,1,1,https://lapor.folkatech.com/api/report,284,0,60
+1741479653330,311,HTTP Request 100-30,200,OK,100-30 3-53,text,true,,355,2328,2,2,https://lapor.folkatech.com/api/report,311,0,62
+1741479653627,299,HTTP Request 100-30,200,OK,100-30 3-54,text,true,,355,2376,1,1,https://lapor.folkatech.com/api/report,299,0,62
+1741479653931,294,HTTP Request 100-30,200,OK,100-30 3-55,text,true,,355,2388,1,1,https://lapor.folkatech.com/api/report,294,0,64
+1741479654231,323,HTTP Request 100-30,200,OK,100-30 3-56,text,true,,355,2400,2,2,https://lapor.folkatech.com/api/report,323,0,63
+1741479654533,337,HTTP Request 100-30,200,OK,100-30 3-57,text,true,,355,2304,2,2,https://lapor.folkatech.com/api/report,337,0,63
+1741479654832,368,HTTP Request 100-30,200,OK,100-30 3-58,text,true,,355,2364,2,2,https://lapor.folkatech.com/api/report,368,0,96
+1741479655130,278,HTTP Request 100-30,200,OK,100-30 3-59,text,true,,355,2328,1,1,https://lapor.folkatech.com/api/report,278,0,66
+1741479655427,293,HTTP Request 100-30,200,OK,100-30 3-60,text,true,,355,2364,1,1,https://lapor.folkatech.com/api/report,292,0,62
+1741479655730,100,HTTP Request 100-30,429,Too Many Requests,100-30 3-61,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,100,0,63
+1741479656030,138,HTTP Request 100-30,429,Too Many Requests,100-30 3-62,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,138,0,87
+1741479656330,142,HTTP Request 100-30,429,Too Many Requests,100-30 3-63,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,142,0,102
+1741479656627,180,HTTP Request 100-30,429,Too Many Requests,100-30 3-64,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,180,0,78
+1741479656926,314,HTTP Request 100-30,429,Too Many Requests,100-30 3-65,text,false,,6995,2316,2,2,https://lapor.folkatech.com/api/report,314,0,238
+1741479657232,109,HTTP Request 100-30,429,Too Many Requests,100-30 3-66,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,109,0,66
+1741479657527,104,HTTP Request 100-30,429,Too Many Requests,100-30 3-67,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,104,0,64
+1741479657827,103,HTTP Request 100-30,429,Too Many Requests,100-30 3-68,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,103,0,62
+1741479658129,103,HTTP Request 100-30,429,Too Many Requests,100-30 3-69,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,103,0,61
+1741479658427,106,HTTP Request 100-30,429,Too Many Requests,100-30 3-70,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,106,0,64
+1741479658732,105,HTTP Request 100-30,429,Too Many Requests,100-30 3-71,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,105,0,64
+1741479659031,106,HTTP Request 100-30,429,Too Many Requests,100-30 3-72,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,106,0,65
+1741479659324,95,HTTP Request 100-30,429,Too Many Requests,100-30 3-73,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,95,0,56
+1741479659630,107,HTTP Request 100-30,429,Too Many Requests,100-30 3-74,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,107,0,66
+1741479659930,103,HTTP Request 100-30,429,Too Many Requests,100-30 3-75,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,103,0,64
+1741479660230,101,HTTP Request 100-30,429,Too Many Requests,100-30 3-76,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479660526,106,HTTP Request 100-30,429,Too Many Requests,100-30 3-77,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,106,0,65
+1741479660824,104,HTTP Request 100-30,429,Too Many Requests,100-30 3-78,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,104,0,63
+1741479661127,104,HTTP Request 100-30,429,Too Many Requests,100-30 3-79,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,104,0,61
+1741479661432,112,HTTP Request 100-30,429,Too Many Requests,100-30 3-80,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,112,0,69
+1741479661729,117,HTTP Request 100-30,429,Too Many Requests,100-30 3-81,text,false,,7001,2352,1,1,https://lapor.folkatech.com/api/report,117,0,67
+1741479662026,105,HTTP Request 100-30,429,Too Many Requests,100-30 3-82,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,105,0,62
+1741479662331,108,HTTP Request 100-30,429,Too Many Requests,100-30 3-83,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,107,0,67
+1741479662628,105,HTTP Request 100-30,429,Too Many Requests,100-30 3-84,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,104,0,66
+1741479662927,109,HTTP Request 100-30,429,Too Many Requests,100-30 3-85,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,109,0,69
+1741479663227,99,HTTP Request 100-30,429,Too Many Requests,100-30 3-86,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,99,0,60
+1741479663530,105,HTTP Request 100-30,429,Too Many Requests,100-30 3-87,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,104,0,66
+1741479663822,100,HTTP Request 100-30,429,Too Many Requests,100-30 3-88,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,100,0,60
+1741479664129,91,HTTP Request 100-30,429,Too Many Requests,100-30 3-89,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,91,0,52
+1741479664432,104,HTTP Request 100-30,429,Too Many Requests,100-30 3-90,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,104,0,66
+1741479664729,105,HTTP Request 100-30,429,Too Many Requests,100-30 3-91,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,105,0,67
+1741479665031,103,HTTP Request 100-30,429,Too Many Requests,100-30 3-92,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,103,0,65
+1741479665325,100,HTTP Request 100-30,429,Too Many Requests,100-30 3-93,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479665630,101,HTTP Request 100-30,429,Too Many Requests,100-30 3-94,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479665928,104,HTTP Request 100-30,429,Too Many Requests,100-30 3-95,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,104,0,64
+1741479666231,100,HTTP Request 100-30,429,Too Many Requests,100-30 3-96,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,100,0,61
+1741479666530,97,HTTP Request 100-30,429,Too Many Requests,100-30 3-97,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,97,0,60
+1741479666829,101,HTTP Request 100-30,429,Too Many Requests,100-30 3-98,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479667130,114,HTTP Request 100-30,429,Too Many Requests,100-30 3-99,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,114,0,68
+1741479667424,108,HTTP Request 100-30,429,Too Many Requests,100-30 3-100,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,108,0,68
+1741479672543,131,HTTP Request 100-15,429,Too Many Requests,100-15 4-1,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,131,0,83
+1741479672698,105,HTTP Request 100-15,429,Too Many Requests,100-15 4-2,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,104,0,66
+1741479672848,104,HTTP Request 100-15,429,Too Many Requests,100-15 4-3,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,104,0,64
+1741479672996,98,HTTP Request 100-15,429,Too Many Requests,100-15 4-4,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,98,0,61
+1741479673140,95,HTTP Request 100-15,429,Too Many Requests,100-15 4-5,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,95,0,51
+1741479673291,96,HTTP Request 100-15,429,Too Many Requests,100-15 4-6,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,96,0,55
+1741479673442,99,HTTP Request 100-15,429,Too Many Requests,100-15 4-7,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,99,0,60
+1741479673593,94,HTTP Request 100-15,429,Too Many Requests,100-15 4-8,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,94,0,58
+1741479673744,106,HTTP Request 100-15,429,Too Many Requests,100-15 4-9,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,106,0,65
+1741479673897,110,HTTP Request 100-15,429,Too Many Requests,100-15 4-10,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,110,0,67
+1741479674045,100,HTTP Request 100-15,429,Too Many Requests,100-15 4-11,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,100,0,60
+1741479674198,106,HTTP Request 100-15,429,Too Many Requests,100-15 4-12,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,106,0,66
+1741479674345,102,HTTP Request 100-15,429,Too Many Requests,100-15 4-13,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,102,0,63
+1741479674493,102,HTTP Request 100-15,429,Too Many Requests,100-15 4-14,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,102,0,63
+1741479674645,99,HTTP Request 100-15,429,Too Many Requests,100-15 4-15,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,99,0,60
+1741479674793,107,HTTP Request 100-15,429,Too Many Requests,100-15 4-16,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,107,0,66
+1741479674937,105,HTTP Request 100-15,429,Too Many Requests,100-15 4-17,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,105,0,60
+1741479675092,101,HTTP Request 100-15,429,Too Many Requests,100-15 4-18,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479675247,100,HTTP Request 100-15,429,Too Many Requests,100-15 4-19,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,99,0,62
+1741479675391,101,HTTP Request 100-15,429,Too Many Requests,100-15 4-20,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479675546,108,HTTP Request 100-15,429,Too Many Requests,100-15 4-21,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,108,0,67
+1741479675694,101,HTTP Request 100-15,429,Too Many Requests,100-15 4-22,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479675846,111,HTTP Request 100-15,429,Too Many Requests,100-15 4-23,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,111,0,70
+1741479675996,101,HTTP Request 100-15,429,Too Many Requests,100-15 4-24,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,101,0,61
+1741479676143,99,HTTP Request 100-15,429,Too Many Requests,100-15 4-25,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479676291,103,HTTP Request 100-15,429,Too Many Requests,100-15 4-26,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,103,0,63
+1741479676442,140,HTTP Request 100-15,429,Too Many Requests,100-15 4-27,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,139,0,100
+1741479676594,102,HTTP Request 100-15,429,Too Many Requests,100-15 4-28,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,102,0,61
+1741479676744,90,HTTP Request 100-15,429,Too Many Requests,100-15 4-29,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,90,0,53
+1741479676896,96,HTTP Request 100-15,429,Too Many Requests,100-15 4-30,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,96,0,60
+1741479677041,103,HTTP Request 100-15,429,Too Many Requests,100-15 4-31,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,102,0,62
+1741479677194,110,HTTP Request 100-15,429,Too Many Requests,100-15 4-32,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,109,0,67
+1741479677344,94,HTTP Request 100-15,429,Too Many Requests,100-15 4-33,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,94,0,58
+1741479677495,91,HTTP Request 100-15,429,Too Many Requests,100-15 4-34,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,91,0,54
+1741479677641,104,HTTP Request 100-15,429,Too Many Requests,100-15 4-35,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,104,0,65
+1741479677796,92,HTTP Request 100-15,429,Too Many Requests,100-15 4-36,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,92,0,55
+1741479677946,100,HTTP Request 100-15,429,Too Many Requests,100-15 4-37,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,100,0,60
+1741479678096,102,HTTP Request 100-15,429,Too Many Requests,100-15 4-38,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,102,0,62
+1741479678245,106,HTTP Request 100-15,429,Too Many Requests,100-15 4-39,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,105,0,63
+1741479678397,96,HTTP Request 100-15,429,Too Many Requests,100-15 4-40,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,96,0,59
+1741479678546,106,HTTP Request 100-15,429,Too Many Requests,100-15 4-41,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,105,0,64
+1741479678696,106,HTTP Request 100-15,429,Too Many Requests,100-15 4-42,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,106,0,63
+1741479678841,99,HTTP Request 100-15,429,Too Many Requests,100-15 4-43,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,98,0,60
+1741479678995,96,HTTP Request 100-15,429,Too Many Requests,100-15 4-44,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,96,0,56
+1741479679146,91,HTTP Request 100-15,429,Too Many Requests,100-15 4-45,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,91,0,54
+1741479679292,101,HTTP Request 100-15,429,Too Many Requests,100-15 4-46,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,101,0,60
+1741479679443,100,HTTP Request 100-15,429,Too Many Requests,100-15 4-47,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479679593,98,HTTP Request 100-15,429,Too Many Requests,100-15 4-48,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,98,0,59
+1741479679745,105,HTTP Request 100-15,429,Too Many Requests,100-15 4-49,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,105,0,66
+1741479679897,108,HTTP Request 100-15,429,Too Many Requests,100-15 4-50,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,108,0,67
+1741479680039,110,HTTP Request 100-15,429,Too Many Requests,100-15 4-51,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,110,0,68
+1741479680193,107,HTTP Request 100-15,429,Too Many Requests,100-15 4-52,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,107,0,64
+1741479680342,107,HTTP Request 100-15,429,Too Many Requests,100-15 4-53,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,107,0,67
+1741479680490,100,HTTP Request 100-15,429,Too Many Requests,100-15 4-54,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479680643,105,HTTP Request 100-15,429,Too Many Requests,100-15 4-55,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,105,0,65
+1741479680793,109,HTTP Request 100-15,429,Too Many Requests,100-15 4-56,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,108,0,66
+1741479680948,110,HTTP Request 100-15,429,Too Many Requests,100-15 4-57,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,110,0,69
+1741479681098,104,HTTP Request 100-15,429,Too Many Requests,100-15 4-58,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,104,0,65
+1741479681245,99,HTTP Request 100-15,429,Too Many Requests,100-15 4-59,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479681395,94,HTTP Request 100-15,429,Too Many Requests,100-15 4-60,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,94,0,56
+1741479681545,99,HTTP Request 100-15,429,Too Many Requests,100-15 4-61,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479681693,96,HTTP Request 100-15,429,Too Many Requests,100-15 4-62,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,95,0,58
+1741479681847,105,HTTP Request 100-15,429,Too Many Requests,100-15 4-63,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,105,0,66
+1741479681993,102,HTTP Request 100-15,429,Too Many Requests,100-15 4-64,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,102,0,63
+1741479682143,113,HTTP Request 100-15,429,Too Many Requests,100-15 4-65,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,113,0,71
+1741479682298,97,HTTP Request 100-15,429,Too Many Requests,100-15 4-66,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,97,0,60
+1741479682448,99,HTTP Request 100-15,429,Too Many Requests,100-15 4-67,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479682598,103,HTTP Request 100-15,429,Too Many Requests,100-15 4-68,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,103,0,64
+1741479682743,96,HTTP Request 100-15,429,Too Many Requests,100-15 4-69,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,96,0,59
+1741479682891,94,HTTP Request 100-15,429,Too Many Requests,100-15 4-70,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,94,0,55
+1741479683046,101,HTTP Request 100-15,429,Too Many Requests,100-15 4-71,text,false,,7001,2376,1,1,https://lapor.folkatech.com/api/report,101,0,61
+1741479683195,98,HTTP Request 100-15,429,Too Many Requests,100-15 4-72,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,98,0,60
+1741479683343,97,HTTP Request 100-15,429,Too Many Requests,100-15 4-73,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,97,0,59
+1741479683496,100,HTTP Request 100-15,429,Too Many Requests,100-15 4-74,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,100,0,60
+1741479683647,102,HTTP Request 100-15,429,Too Many Requests,100-15 4-75,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,102,0,64
+1741479683794,106,HTTP Request 100-15,429,Too Many Requests,100-15 4-76,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,106,0,65
+1741479683942,115,HTTP Request 100-15,429,Too Many Requests,100-15 4-77,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,115,0,68
+1741479684093,97,HTTP Request 100-15,429,Too Many Requests,100-15 4-78,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,96,0,60
+1741479684247,101,HTTP Request 100-15,429,Too Many Requests,100-15 4-79,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,101,0,63
+1741479684393,106,HTTP Request 100-15,429,Too Many Requests,100-15 4-80,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,106,0,62
+1741479684547,108,HTTP Request 100-15,429,Too Many Requests,100-15 4-81,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,108,0,70
+1741479684690,101,HTTP Request 100-15,429,Too Many Requests,100-15 4-82,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,101,0,61
+1741479684848,97,HTTP Request 100-15,429,Too Many Requests,100-15 4-83,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,97,0,59
+1741479684992,107,HTTP Request 100-15,429,Too Many Requests,100-15 4-84,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,107,0,68
+1741479685143,103,HTTP Request 100-15,429,Too Many Requests,100-15 4-85,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,103,0,64
+1741479685293,102,HTTP Request 100-15,429,Too Many Requests,100-15 4-86,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,102,0,63
+1741479685444,101,HTTP Request 100-15,429,Too Many Requests,100-15 4-87,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,101,0,63
+1741479685592,114,HTTP Request 100-15,429,Too Many Requests,100-15 4-88,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,114,0,73
+1741479685744,101,HTTP Request 100-15,429,Too Many Requests,100-15 4-89,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,101,0,64
+1741479685898,104,HTTP Request 100-15,429,Too Many Requests,100-15 4-90,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,104,0,62
+1741479686048,106,HTTP Request 100-15,429,Too Many Requests,100-15 4-91,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,105,0,65
+1741479686193,97,HTTP Request 100-15,429,Too Many Requests,100-15 4-92,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,97,0,58
+1741479686349,101,HTTP Request 100-15,429,Too Many Requests,100-15 4-93,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,101,0,63
+1741479686492,118,HTTP Request 100-15,429,Too Many Requests,100-15 4-94,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,118,0,71
+1741479686643,101,HTTP Request 100-15,429,Too Many Requests,100-15 4-95,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479686793,95,HTTP Request 100-15,429,Too Many Requests,100-15 4-96,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,95,0,57
+1741479686948,99,HTTP Request 100-15,429,Too Many Requests,100-15 4-97,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,99,0,59
+1741479687096,98,HTTP Request 100-15,429,Too Many Requests,100-15 4-98,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,98,0,61
+1741479687243,100,HTTP Request 100-15,429,Too Many Requests,100-15 4-99,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,99,0,62
+1741479687398,97,HTTP Request 100-15,429,Too Many Requests,100-15 4-100,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,97,0,60
+1741479692505,109,HTTP Request 100-5,429,Too Many Requests,100-5 5-1,text,false,,6994,2412,3,3,https://lapor.folkatech.com/api/report,109,0,65
+1741479692559,103,HTTP Request 100-5,429,Too Many Requests,100-5 5-2,text,false,,6994,2412,3,3,https://lapor.folkatech.com/api/report,102,0,64
+1741479692610,103,HTTP Request 100-5,429,Too Many Requests,100-5 5-3,text,false,,6994,2352,3,3,https://lapor.folkatech.com/api/report,103,0,63
+1741479692655,100,HTTP Request 100-5,429,Too Many Requests,100-5 5-4,text,false,,6994,2352,3,3,https://lapor.folkatech.com/api/report,100,0,61
+1741479692703,112,HTTP Request 100-5,429,Too Many Requests,100-5 5-5,text,false,,6994,2352,3,3,https://lapor.folkatech.com/api/report,112,0,70
+1741479692754,105,HTTP Request 100-5,429,Too Many Requests,100-5 5-6,text,false,,6994,2376,3,3,https://lapor.folkatech.com/api/report,105,0,64
+1741479692803,120,HTTP Request 100-5,429,Too Many Requests,100-5 5-7,text,false,,6994,2364,3,3,https://lapor.folkatech.com/api/report,119,0,77
+1741479692858,115,HTTP Request 100-5,429,Too Many Requests,100-5 5-8,text,false,,6994,2412,3,3,https://lapor.folkatech.com/api/report,115,0,74
+1741479692902,103,HTTP Request 100-5,429,Too Many Requests,100-5 5-9,text,false,,6994,2340,3,3,https://lapor.folkatech.com/api/report,103,0,63
+1741479692959,109,HTTP Request 100-5,429,Too Many Requests,100-5 5-10,text,false,,6994,2304,3,3,https://lapor.folkatech.com/api/report,109,0,69
+1741479693007,111,HTTP Request 100-5,429,Too Many Requests,100-5 5-11,text,false,,6994,2400,3,3,https://lapor.folkatech.com/api/report,110,0,67
+1741479693059,110,HTTP Request 100-5,429,Too Many Requests,100-5 5-12,text,false,,6994,2376,3,3,https://lapor.folkatech.com/api/report,110,0,69
+1741479693104,106,HTTP Request 100-5,429,Too Many Requests,100-5 5-13,text,false,,6994,2424,3,3,https://lapor.folkatech.com/api/report,106,0,66
+1741479693160,103,HTTP Request 100-5,429,Too Many Requests,100-5 5-14,text,false,,7000,2316,3,3,https://lapor.folkatech.com/api/report,103,0,59
+1741479693203,107,HTTP Request 100-5,429,Too Many Requests,100-5 5-15,text,false,,6994,2424,3,3,https://lapor.folkatech.com/api/report,107,0,63
+1741479693259,110,HTTP Request 100-5,429,Too Many Requests,100-5 5-16,text,false,,6994,2424,3,3,https://lapor.folkatech.com/api/report,110,0,69
+1741479693304,109,HTTP Request 100-5,429,Too Many Requests,100-5 5-17,text,false,,6994,2352,3,3,https://lapor.folkatech.com/api/report,109,0,67
+1741479693353,105,HTTP Request 100-5,429,Too Many Requests,100-5 5-18,text,false,,6994,2376,3,3,https://lapor.folkatech.com/api/report,105,0,64
+1741479693407,96,HTTP Request 100-5,429,Too Many Requests,100-5 5-19,text,false,,6994,2388,2,2,https://lapor.folkatech.com/api/report,96,0,60
+1741479693455,100,HTTP Request 100-5,429,Too Many Requests,100-5 5-20,text,false,,6994,2328,3,3,https://lapor.folkatech.com/api/report,100,0,61
+1741479693509,101,HTTP Request 100-5,429,Too Many Requests,100-5 5-21,text,false,,6994,2328,3,3,https://lapor.folkatech.com/api/report,101,0,62
+1741479693554,99,HTTP Request 100-5,429,Too Many Requests,100-5 5-22,text,false,,6994,2400,2,2,https://lapor.folkatech.com/api/report,99,0,60
+1741479693607,104,HTTP Request 100-5,429,Too Many Requests,100-5 5-23,text,false,,6994,2340,3,3,https://lapor.folkatech.com/api/report,104,0,64
+1741479693655,95,HTTP Request 100-5,429,Too Many Requests,100-5 5-24,text,false,,6994,2376,2,2,https://lapor.folkatech.com/api/report,95,0,59
+1741479693708,98,HTTP Request 100-5,429,Too Many Requests,100-5 5-25,text,false,,6994,2376,3,3,https://lapor.folkatech.com/api/report,98,0,60
+1741479693756,103,HTTP Request 100-5,429,Too Many Requests,100-5 5-26,text,false,,6994,2316,3,3,https://lapor.folkatech.com/api/report,103,0,63
+1741479693806,98,HTTP Request 100-5,429,Too Many Requests,100-5 5-27,text,false,,6994,2424,2,2,https://lapor.folkatech.com/api/report,98,0,60
+1741479693855,102,HTTP Request 100-5,429,Too Many Requests,100-5 5-28,text,false,,6994,2364,3,3,https://lapor.folkatech.com/api/report,101,0,62
+1741479693906,101,HTTP Request 100-5,429,Too Many Requests,100-5 5-29,text,false,,6994,2304,3,3,https://lapor.folkatech.com/api/report,101,0,62
+1741479693955,98,HTTP Request 100-5,429,Too Many Requests,100-5 5-30,text,false,,6994,2340,2,2,https://lapor.folkatech.com/api/report,98,0,58
+1741479694006,98,HTTP Request 100-5,429,Too Many Requests,100-5 5-31,text,false,,6994,2328,3,3,https://lapor.folkatech.com/api/report,98,0,59
+1741479694057,99,HTTP Request 100-5,429,Too Many Requests,100-5 5-32,text,false,,6994,2364,2,2,https://lapor.folkatech.com/api/report,99,0,59
+1741479694104,102,HTTP Request 100-5,429,Too Many Requests,100-5 5-33,text,false,,6994,2400,3,3,https://lapor.folkatech.com/api/report,102,0,62
+1741479694160,106,HTTP Request 100-5,429,Too Many Requests,100-5 5-34,text,false,,6994,2412,3,3,https://lapor.folkatech.com/api/report,105,0,63
+1741479694207,101,HTTP Request 100-5,429,Too Many Requests,100-5 5-35,text,false,,6994,2364,3,3,https://lapor.folkatech.com/api/report,101,0,62
+1741479694259,101,HTTP Request 100-5,429,Too Many Requests,100-5 5-36,text,false,,6994,2412,3,3,https://lapor.folkatech.com/api/report,101,0,60
+1741479694307,103,HTTP Request 100-5,429,Too Many Requests,100-5 5-37,text,false,,6994,2376,3,3,https://lapor.folkatech.com/api/report,103,0,62
+1741479694358,101,HTTP Request 100-5,429,Too Many Requests,100-5 5-38,text,false,,6994,2376,3,3,https://lapor.folkatech.com/api/report,101,0,59
+1741479694410,97,HTTP Request 100-5,429,Too Many Requests,100-5 5-39,text,false,,6994,2352,2,2,https://lapor.folkatech.com/api/report,97,0,61
+1741479694460,96,HTTP Request 100-5,429,Too Many Requests,100-5 5-40,text,false,,6994,2352,3,3,https://lapor.folkatech.com/api/report,96,0,58
+1741479694509,107,HTTP Request 100-5,429,Too Many Requests,100-5 5-41,text,false,,6994,2304,3,3,https://lapor.folkatech.com/api/report,107,0,66
+1741479694555,100,HTTP Request 100-5,429,Too Many Requests,100-5 5-42,text,false,,6994,2400,2,2,https://lapor.folkatech.com/api/report,100,0,60
+1741479694610,104,HTTP Request 100-5,429,Too Many Requests,100-5 5-43,text,false,,6994,2328,3,3,https://lapor.folkatech.com/api/report,104,0,66
+1741479694659,110,HTTP Request 100-5,429,Too Many Requests,100-5 5-44,text,false,,6994,2304,3,3,https://lapor.folkatech.com/api/report,110,0,69
+1741479694707,102,HTTP Request 100-5,429,Too Many Requests,100-5 5-45,text,false,,6994,2316,3,3,https://lapor.folkatech.com/api/report,102,0,65
+1741479694756,100,HTTP Request 100-5,429,Too Many Requests,100-5 5-46,text,false,,6994,2412,3,3,https://lapor.folkatech.com/api/report,100,0,62
+1741479694805,97,HTTP Request 100-5,429,Too Many Requests,100-5 5-47,text,false,,6994,2316,2,2,https://lapor.folkatech.com/api/report,97,0,59
+1741479694857,107,HTTP Request 100-5,429,Too Many Requests,100-5 5-48,text,false,,6994,2364,3,3,https://lapor.folkatech.com/api/report,107,0,62
+1741479694909,99,HTTP Request 100-5,429,Too Many Requests,100-5 5-49,text,false,,6994,2316,3,3,https://lapor.folkatech.com/api/report,99,0,63
+1741479694955,98,HTTP Request 100-5,429,Too Many Requests,100-5 5-50,text,false,,6994,2316,2,2,https://lapor.folkatech.com/api/report,98,0,60
+1741479695008,104,HTTP Request 100-5,429,Too Many Requests,100-5 5-51,text,false,,6994,2400,3,3,https://lapor.folkatech.com/api/report,104,0,59
+1741479695060,97,HTTP Request 100-5,429,Too Many Requests,100-5 5-52,text,false,,6994,2376,3,3,https://lapor.folkatech.com/api/report,97,0,59
+1741479695104,99,HTTP Request 100-5,429,Too Many Requests,100-5 5-53,text,false,,6994,2412,2,2,https://lapor.folkatech.com/api/report,99,0,62
+1741479695154,106,HTTP Request 100-5,429,Too Many Requests,100-5 5-54,text,false,,6994,2424,3,3,https://lapor.folkatech.com/api/report,106,0,66
+1741479695209,109,HTTP Request 100-5,429,Too Many Requests,100-5 5-55,text,false,,6994,2352,3,3,https://lapor.folkatech.com/api/report,109,0,67
+1741479695256,102,HTTP Request 100-5,429,Too Many Requests,100-5 5-56,text,false,,7000,2340,3,3,https://lapor.folkatech.com/api/report,102,0,61
+1741479695310,109,HTTP Request 100-5,429,Too Many Requests,100-5 5-57,text,false,,6994,2412,3,3,https://lapor.folkatech.com/api/report,109,0,67
+1741479695356,103,HTTP Request 100-5,429,Too Many Requests,100-5 5-58,text,false,,6994,2412,3,3,https://lapor.folkatech.com/api/report,103,0,65
+1741479695404,104,HTTP Request 100-5,429,Too Many Requests,100-5 5-59,text,false,,6994,2328,3,3,https://lapor.folkatech.com/api/report,104,0,65
+1741479695460,100,HTTP Request 100-5,429,Too Many Requests,100-5 5-60,text,false,,6994,2424,3,3,https://lapor.folkatech.com/api/report,100,0,61
+1741479695509,111,HTTP Request 100-5,429,Too Many Requests,100-5 5-61,text,false,,6994,2388,3,3,https://lapor.folkatech.com/api/report,111,0,69
+1741479695560,106,HTTP Request 100-5,429,Too Many Requests,100-5 5-62,text,false,,6994,2340,3,3,https://lapor.folkatech.com/api/report,106,0,65
+1741479695609,105,HTTP Request 100-5,429,Too Many Requests,100-5 5-63,text,false,,6994,2304,3,3,https://lapor.folkatech.com/api/report,105,0,65
+1741479695654,100,HTTP Request 100-5,429,Too Many Requests,100-5 5-64,text,false,,6994,2340,2,2,https://lapor.folkatech.com/api/report,100,0,61
+1741479695710,108,HTTP Request 100-5,429,Too Many Requests,100-5 5-65,text,false,,6994,2412,3,3,https://lapor.folkatech.com/api/report,108,0,68
+1741479695758,105,HTTP Request 100-5,429,Too Many Requests,100-5 5-66,text,false,,6994,2388,3,3,https://lapor.folkatech.com/api/report,105,0,64
+1741479695808,116,HTTP Request 100-5,429,Too Many Requests,100-5 5-67,text,false,,6994,2316,3,3,https://lapor.folkatech.com/api/report,116,0,71
+1741479695852,98,HTTP Request 100-5,429,Too Many Requests,100-5 5-68,text,false,,6994,2364,2,2,https://lapor.folkatech.com/api/report,98,0,60
+1741479695904,98,HTTP Request 100-5,429,Too Many Requests,100-5 5-69,text,false,,6994,2340,2,2,https://lapor.folkatech.com/api/report,98,0,60
+1741479695959,108,HTTP Request 100-5,429,Too Many Requests,100-5 5-70,text,false,,6994,2364,3,3,https://lapor.folkatech.com/api/report,108,0,68
+1741479696005,117,HTTP Request 100-5,429,Too Many Requests,100-5 5-71,text,false,,6994,2340,3,3,https://lapor.folkatech.com/api/report,117,0,71
+1741479696059,110,HTTP Request 100-5,429,Too Many Requests,100-5 5-72,text,false,,6994,2388,3,3,https://lapor.folkatech.com/api/report,110,0,68
+1741479696102,101,HTTP Request 100-5,429,Too Many Requests,100-5 5-73,text,false,,6994,2328,2,2,https://lapor.folkatech.com/api/report,101,0,62
+1741479696157,107,HTTP Request 100-5,429,Too Many Requests,100-5 5-74,text,false,,6994,2376,3,3,https://lapor.folkatech.com/api/report,107,0,66
+1741479696208,100,HTTP Request 100-5,429,Too Many Requests,100-5 5-75,text,false,,6994,2424,3,3,https://lapor.folkatech.com/api/report,100,0,62
+1741479696256,101,HTTP Request 100-5,429,Too Many Requests,100-5 5-76,text,false,,6994,2328,3,3,https://lapor.folkatech.com/api/report,101,0,60
+1741479696306,101,HTTP Request 100-5,429,Too Many Requests,100-5 5-77,text,false,,6994,2400,3,3,https://lapor.folkatech.com/api/report,101,0,62
+1741479696357,102,HTTP Request 100-5,429,Too Many Requests,100-5 5-78,text,false,,6994,2352,3,3,https://lapor.folkatech.com/api/report,102,0,62
+1741479696404,103,HTTP Request 100-5,429,Too Many Requests,100-5 5-79,text,false,,6994,2424,3,3,https://lapor.folkatech.com/api/report,103,0,64
+1741479696456,102,HTTP Request 100-5,429,Too Many Requests,100-5 5-80,text,false,,6994,2412,3,3,https://lapor.folkatech.com/api/report,102,0,65
+1741479696504,103,HTTP Request 100-5,429,Too Many Requests,100-5 5-81,text,false,,6994,2364,2,2,https://lapor.folkatech.com/api/report,102,0,64
+1741479696552,98,HTTP Request 100-5,429,Too Many Requests,100-5 5-82,text,false,,6994,2352,2,2,https://lapor.folkatech.com/api/report,98,0,59
+1741479696609,95,HTTP Request 100-5,429,Too Many Requests,100-5 5-83,text,false,,6994,2388,2,2,https://lapor.folkatech.com/api/report,95,0,58
+1741479696660,96,HTTP Request 100-5,429,Too Many Requests,100-5 5-84,text,false,,6994,2328,3,3,https://lapor.folkatech.com/api/report,96,0,56
+1741479696706,93,HTTP Request 100-5,429,Too Many Requests,100-5 5-85,text,false,,6994,2376,2,2,https://lapor.folkatech.com/api/report,92,0,57
+1741479696753,96,HTTP Request 100-5,429,Too Many Requests,100-5 5-86,text,false,,6994,2412,2,2,https://lapor.folkatech.com/api/report,96,0,59
+1741479696808,96,HTTP Request 100-5,429,Too Many Requests,100-5 5-87,text,false,,6994,2376,2,2,https://lapor.folkatech.com/api/report,96,0,58
+1741479696857,311,HTTP Request 100-5,200,OK,100-5 5-88,text,true,,356,2364,7,7,https://lapor.folkatech.com/api/report,311,0,66
+1741479696907,339,HTTP Request 100-5,200,OK,100-5 5-89,text,true,,356,2352,7,7,https://lapor.folkatech.com/api/report,339,0,56
+1741479696954,329,HTTP Request 100-5,200,OK,100-5 5-90,text,true,,356,2388,7,7,https://lapor.folkatech.com/api/report,329,0,54
+1741479697054,309,HTTP Request 100-5,200,OK,100-5 5-92,text,true,,356,2328,8,8,https://lapor.folkatech.com/api/report,309,0,62
+1741479697005,360,HTTP Request 100-5,200,OK,100-5 5-91,text,true,,356,2376,7,7,https://lapor.folkatech.com/api/report,360,0,56
+1741479697106,403,HTTP Request 100-5,200,OK,100-5 5-93,text,true,,356,2340,8,8,https://lapor.folkatech.com/api/report,403,0,56
+1741479697156,369,HTTP Request 100-5,200,OK,100-5 5-94,text,true,,356,2304,7,7,https://lapor.folkatech.com/api/report,369,0,58
+1741479697206,347,HTTP Request 100-5,200,OK,100-5 5-95,text,true,,356,2412,6,6,https://lapor.folkatech.com/api/report,347,0,59
+1741479697254,346,HTTP Request 100-5,200,OK,100-5 5-96,text,true,,356,2316,5,5,https://lapor.folkatech.com/api/report,345,0,59
+1741479697308,328,HTTP Request 100-5,200,OK,100-5 5-97,text,true,,356,2376,4,4,https://lapor.folkatech.com/api/report,328,0,60
+1741479697353,371,HTTP Request 100-5,200,OK,100-5 5-98,text,true,,356,2424,3,3,https://lapor.folkatech.com/api/report,371,0,63
+1741479697409,333,HTTP Request 100-5,200,OK,100-5 5-99,text,true,,356,2328,2,2,https://lapor.folkatech.com/api/report,333,0,63
+1741479697456,309,HTTP Request 100-5,200,OK,100-5 5-100,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,309,0,60
+1741479702863,972,HTTP Request 100-1,200,OK,100-1 6-10,text,true,,356,2352,100,100,https://lapor.folkatech.com/api/report,972,0,66
+1741479702813,1093,HTTP Request 100-1,200,OK,100-1 6-5,text,true,,356,2400,99,99,https://lapor.folkatech.com/api/report,1093,0,58
+1741479702791,1119,HTTP Request 100-1,200,OK,100-1 6-3,text,true,,356,2340,98,98,https://lapor.folkatech.com/api/report,1119,0,60
+1741479702825,1103,HTTP Request 100-1,200,OK,100-1 6-6,text,true,,356,2376,97,97,https://lapor.folkatech.com/api/report,1103,0,56
+1741479702833,1173,HTTP Request 100-1,200,OK,100-1 6-7,text,true,,356,2364,96,96,https://lapor.folkatech.com/api/report,1173,0,56
+1741479702903,1161,HTTP Request 100-1,200,OK,100-1 6-14,text,true,,356,2352,95,95,https://lapor.folkatech.com/api/report,1161,0,61
+1741479702780,1311,HTTP Request 100-1,200,OK,100-1 6-2,text,true,,356,2424,94,94,https://lapor.folkatech.com/api/report,1311,0,71
+1741479702800,1318,HTTP Request 100-1,200,OK,100-1 6-4,text,true,,356,2304,93,93,https://lapor.folkatech.com/api/report,1318,0,59
+1741479702774,1376,HTTP Request 100-1,200,OK,100-1 6-1,text,true,,356,2340,92,92,https://lapor.folkatech.com/api/report,1376,0,77
+1741479702887,1278,HTTP Request 100-1,200,OK,100-1 6-12,text,true,,356,2316,91,91,https://lapor.folkatech.com/api/report,1278,0,58
+1741479702840,1352,HTTP Request 100-1,200,OK,100-1 6-8,text,true,,356,2388,90,90,https://lapor.folkatech.com/api/report,1352,0,56
+1741479702951,1343,HTTP Request 100-1,200,OK,100-1 6-19,text,true,,356,2376,89,89,https://lapor.folkatech.com/api/report,1343,0,52
+1741479702846,1449,HTTP Request 100-1,200,OK,100-1 6-9,text,true,,356,2316,89,89,https://lapor.folkatech.com/api/report,1449,0,60
+1741479702914,1398,HTTP Request 100-1,200,OK,100-1 6-15,text,true,,356,2328,87,87,https://lapor.folkatech.com/api/report,1398,0,61
+1741479702932,1380,HTTP Request 100-1,200,OK,100-1 6-17,text,true,,356,2340,87,87,https://lapor.folkatech.com/api/report,1380,0,57
+1741479702874,1463,HTTP Request 100-1,200,OK,100-1 6-11,text,true,,356,2400,85,85,https://lapor.folkatech.com/api/report,1463,0,57
+1741479702922,1419,HTTP Request 100-1,200,OK,100-1 6-16,text,true,,356,2400,84,84,https://lapor.folkatech.com/api/report,1419,0,58
+1741479702942,1457,HTTP Request 100-1,200,OK,100-1 6-18,text,true,,356,2352,83,83,https://lapor.folkatech.com/api/report,1457,0,60
+1741479702896,1585,HTTP Request 100-1,200,OK,100-1 6-13,text,true,,355,2352,82,82,https://lapor.folkatech.com/api/report,1585,0,56
+1741479702962,1520,HTTP Request 100-1,200,OK,100-1 6-20,text,true,,355,2388,82,82,https://lapor.folkatech.com/api/report,1520,0,54
+1741479702974,1664,HTTP Request 100-1,200,OK,100-1 6-21,text,true,,355,2316,80,80,https://lapor.folkatech.com/api/report,1664,0,59
+1741479703009,1685,HTTP Request 100-1,200,OK,100-1 6-25,text,true,,355,2400,79,79,https://lapor.folkatech.com/api/report,1685,0,56
+1741479702981,1741,HTTP Request 100-1,200,OK,100-1 6-22,text,true,,355,2364,78,78,https://lapor.folkatech.com/api/report,1741,0,58
+1741479703019,1851,HTTP Request 100-1,200,OK,100-1 6-26,text,true,,355,2424,77,77,https://lapor.folkatech.com/api/report,1851,0,55
+1741479702999,1908,HTTP Request 100-1,200,OK,100-1 6-24,text,true,,355,2304,76,76,https://lapor.folkatech.com/api/report,1907,0,57
+1741479703050,1928,HTTP Request 100-1,200,OK,100-1 6-29,text,true,,355,2340,75,75,https://lapor.folkatech.com/api/report,1928,0,54
+1741479703267,1769,HTTP Request 100-1,429,Too Many Requests,100-1 6-51,text,false,,7001,2376,74,74,https://lapor.folkatech.com/api/report,1769,0,54
+1741479703075,2018,HTTP Request 100-1,200,OK,100-1 6-31,text,true,,355,2364,73,73,https://lapor.folkatech.com/api/report,2018,0,55
+1741479702988,2112,HTTP Request 100-1,200,OK,100-1 6-23,text,true,,355,2364,72,72,https://lapor.folkatech.com/api/report,2112,0,58
+1741479703258,1850,HTTP Request 100-1,429,Too Many Requests,100-1 6-50,text,false,,6995,2328,71,71,https://lapor.folkatech.com/api/report,1850,0,63
+1741479703057,2053,HTTP Request 100-1,200,OK,100-1 6-30,text,true,,355,2340,71,71,https://lapor.folkatech.com/api/report,2053,0,52
+1741479703286,1838,HTTP Request 100-1,429,Too Many Requests,100-1 6-52,text,false,,6995,2316,69,69,https://lapor.folkatech.com/api/report,1838,0,53
+1741479703301,1829,HTTP Request 100-1,429,Too Many Requests,100-1 6-54,text,false,,6995,2424,68,68,https://lapor.folkatech.com/api/report,1829,0,54
+1741479703034,2123,HTTP Request 100-1,200,OK,100-1 6-27,text,true,,355,2352,67,67,https://lapor.folkatech.com/api/report,2123,0,54
+1741479703289,1870,HTTP Request 100-1,429,Too Many Requests,100-1 6-53,text,false,,7001,2352,66,66,https://lapor.folkatech.com/api/report,1870,0,58
+1741479703323,1841,HTTP Request 100-1,429,Too Many Requests,100-1 6-56,text,false,,6995,2316,65,65,https://lapor.folkatech.com/api/report,1840,0,61
+1741479703311,1853,HTTP Request 100-1,429,Too Many Requests,100-1 6-55,text,false,,7001,2376,65,65,https://lapor.folkatech.com/api/report,1852,0,59
+1741479703357,1818,HTTP Request 100-1,429,Too Many Requests,100-1 6-60,text,false,,6995,2388,63,63,https://lapor.folkatech.com/api/report,1818,0,66
+1741479703333,1843,HTTP Request 100-1,429,Too Many Requests,100-1 6-57,text,false,,6995,2412,62,62,https://lapor.folkatech.com/api/report,1843,0,59
+1741479703369,1822,HTTP Request 100-1,429,Too Many Requests,100-1 6-61,text,false,,6995,2352,61,61,https://lapor.folkatech.com/api/report,1822,0,63
+1741479703340,1853,HTTP Request 100-1,429,Too Many Requests,100-1 6-58,text,false,,7001,2388,60,60,https://lapor.folkatech.com/api/report,1853,0,61
+1741479703399,1804,HTTP Request 100-1,429,Too Many Requests,100-1 6-64,text,false,,7001,2340,59,59,https://lapor.folkatech.com/api/report,1804,0,55
+1741479703089,2118,HTTP Request 100-1,200,OK,100-1 6-33,text,true,,355,2424,58,58,https://lapor.folkatech.com/api/report,2118,0,76
+1741479703351,1861,HTTP Request 100-1,429,Too Many Requests,100-1 6-59,text,false,,6995,2412,57,57,https://lapor.folkatech.com/api/report,1861,0,57
+1741479703421,1800,HTTP Request 100-1,429,Too Many Requests,100-1 6-66,text,false,,7001,2400,56,56,https://lapor.folkatech.com/api/report,1800,0,58
+1741479703384,1837,HTTP Request 100-1,429,Too Many Requests,100-1 6-62,text,false,,6995,2400,56,56,https://lapor.folkatech.com/api/report,1837,0,56
+1741479703392,1840,HTTP Request 100-1,429,Too Many Requests,100-1 6-63,text,false,,6995,2376,54,54,https://lapor.folkatech.com/api/report,1840,0,65
+1741479703411,1835,HTTP Request 100-1,429,Too Many Requests,100-1 6-65,text,false,,7001,2376,53,53,https://lapor.folkatech.com/api/report,1835,0,51
+1741479703117,2138,HTTP Request 100-1,429,Too Many Requests,100-1 6-36,text,false,,6995,2388,52,52,https://lapor.folkatech.com/api/report,2138,0,1064
+1741479703439,1819,HTTP Request 100-1,429,Too Many Requests,100-1 6-68,text,false,,7001,2316,51,51,https://lapor.folkatech.com/api/report,1819,0,1058
+1741479703151,2109,HTTP Request 100-1,200,OK,100-1 6-39,text,true,,355,2388,50,50,https://lapor.folkatech.com/api/report,2109,0,73
+1741479703434,1827,HTTP Request 100-1,429,Too Many Requests,100-1 6-67,text,false,,6995,2340,50,50,https://lapor.folkatech.com/api/report,1826,0,1063
+1741479703041,2227,HTTP Request 100-1,200,OK,100-1 6-28,text,true,,355,2340,48,48,https://lapor.folkatech.com/api/report,2227,0,56
+1741479703454,1821,HTTP Request 100-1,429,Too Many Requests,100-1 6-69,text,false,,7001,2364,47,47,https://lapor.folkatech.com/api/report,1821,0,1065
+1741479703520,1759,HTTP Request 100-1,429,Too Many Requests,100-1 6-76,text,false,,7001,2340,46,46,https://lapor.folkatech.com/api/report,1759,0,1064
+1741479703479,1807,HTTP Request 100-1,429,Too Many Requests,100-1 6-72,text,false,,6995,2424,45,45,https://lapor.folkatech.com/api/report,1807,0,1055
+1741479703543,1746,HTTP Request 100-1,429,Too Many Requests,100-1 6-78,text,false,,6995,2304,44,44,https://lapor.folkatech.com/api/report,1745,0,1061
+1741479703500,1790,HTTP Request 100-1,429,Too Many Requests,100-1 6-74,text,false,,7001,2340,43,43,https://lapor.folkatech.com/api/report,1790,0,1056
+1741479703514,1777,HTTP Request 100-1,429,Too Many Requests,100-1 6-75,text,false,,6995,2352,42,42,https://lapor.folkatech.com/api/report,1777,0,1057
+1741479703555,1744,HTTP Request 100-1,429,Too Many Requests,100-1 6-79,text,false,,6995,2388,41,41,https://lapor.folkatech.com/api/report,1744,0,1058
+1741479703490,1811,HTTP Request 100-1,429,Too Many Requests,100-1 6-73,text,false,,7001,2352,40,40,https://lapor.folkatech.com/api/report,1811,0,1057
+1741479703582,1724,HTTP Request 100-1,429,Too Many Requests,100-1 6-82,text,false,,6995,2328,39,39,https://lapor.folkatech.com/api/report,1724,0,1058
+1741479703590,1726,HTTP Request 100-1,429,Too Many Requests,100-1 6-83,text,false,,7001,2316,38,38,https://lapor.folkatech.com/api/report,1726,0,1060
+1741479703603,1716,HTTP Request 100-1,429,Too Many Requests,100-1 6-84,text,false,,6995,2388,37,37,https://lapor.folkatech.com/api/report,1716,0,1057
+1741479703610,1711,HTTP Request 100-1,429,Too Many Requests,100-1 6-85,text,false,,6995,2424,36,36,https://lapor.folkatech.com/api/report,1711,0,1058
+1741479703565,1756,HTTP Request 100-1,429,Too Many Requests,100-1 6-80,text,false,,7001,2340,36,36,https://lapor.folkatech.com/api/report,1756,0,1058
+1741479703573,1752,HTTP Request 100-1,429,Too Many Requests,100-1 6-81,text,false,,7001,2376,34,34,https://lapor.folkatech.com/api/report,1752,0,1052
+1741479703618,1710,HTTP Request 100-1,429,Too Many Requests,100-1 6-86,text,false,,7001,2364,33,33,https://lapor.folkatech.com/api/report,1710,0,1062
+1741479703629,1704,HTTP Request 100-1,429,Too Many Requests,100-1 6-87,text,false,,7001,2424,32,32,https://lapor.folkatech.com/api/report,1703,0,1062
+1741479703467,1870,HTTP Request 100-1,429,Too Many Requests,100-1 6-71,text,false,,7001,2304,31,31,https://lapor.folkatech.com/api/report,1870,0,1057
+1741479703462,1881,HTTP Request 100-1,429,Too Many Requests,100-1 6-70,text,false,,6995,2388,30,30,https://lapor.folkatech.com/api/report,1881,0,1066
+1741479703533,1821,HTTP Request 100-1,429,Too Many Requests,100-1 6-77,text,false,,7001,2316,29,29,https://lapor.folkatech.com/api/report,1821,0,1059
+1741479703199,2182,HTTP Request 100-1,200,OK,100-1 6-44,text,true,,355,2304,28,28,https://lapor.folkatech.com/api/report,2182,0,55
+1741479703112,2300,HTTP Request 100-1,200,OK,100-1 6-35,text,true,,355,2328,27,27,https://lapor.folkatech.com/api/report,2300,0,79
+1741479703083,2350,HTTP Request 100-1,200,OK,100-1 6-32,text,true,,355,2352,26,26,https://lapor.folkatech.com/api/report,2350,0,82
+1741479703162,2294,HTTP Request 100-1,200,OK,100-1 6-40,text,true,,355,2304,25,25,https://lapor.folkatech.com/api/report,2294,0,65
+1741479703179,2314,HTTP Request 100-1,200,OK,100-1 6-42,text,true,,355,2364,24,24,https://lapor.folkatech.com/api/report,2314,0,54
+1741479703172,2323,HTTP Request 100-1,200,OK,100-1 6-41,text,true,,355,2364,23,23,https://lapor.folkatech.com/api/report,2323,0,55
+1741479703102,2399,HTTP Request 100-1,200,OK,100-1 6-34,text,true,,355,2412,22,22,https://lapor.folkatech.com/api/report,2399,0,64
+1741479703131,2397,HTTP Request 100-1,200,OK,100-1 6-37,text,true,,355,2364,21,21,https://lapor.folkatech.com/api/report,2397,0,65
+1741479703223,2315,HTTP Request 100-1,200,OK,100-1 6-46,text,true,,355,2400,20,20,https://lapor.folkatech.com/api/report,2315,0,58
+1741479703251,2313,HTTP Request 100-1,200,OK,100-1 6-49,text,true,,355,2400,19,19,https://lapor.folkatech.com/api/report,2313,0,58
+1741479703145,2420,HTTP Request 100-1,200,OK,100-1 6-38,text,true,,355,2376,18,18,https://lapor.folkatech.com/api/report,2420,0,70
+1741479703240,2411,HTTP Request 100-1,200,OK,100-1 6-48,text,true,,355,2388,17,17,https://lapor.folkatech.com/api/report,2411,0,56
+1741479703234,2455,HTTP Request 100-1,200,OK,100-1 6-47,text,true,,355,2364,16,16,https://lapor.folkatech.com/api/report,2455,0,60
+1741479703650,2094,HTTP Request 100-1,429,Too Many Requests,100-1 6-89,text,false,,6995,2328,15,15,https://lapor.folkatech.com/api/report,2094,0,2056
+1741479703640,2108,HTTP Request 100-1,429,Too Many Requests,100-1 6-88,text,false,,6995,2424,14,14,https://lapor.folkatech.com/api/report,2108,0,2065
+1741479703211,2543,HTTP Request 100-1,200,OK,100-1 6-45,text,true,,355,2304,13,13,https://lapor.folkatech.com/api/report,2543,0,54
+1741479703187,2567,HTTP Request 100-1,200,OK,100-1 6-43,text,true,,355,2424,13,13,https://lapor.folkatech.com/api/report,2567,0,52
+1741479703663,2096,HTTP Request 100-1,429,Too Many Requests,100-1 6-90,text,false,,6995,2328,11,11,https://lapor.folkatech.com/api/report,2096,0,2059
+1741479703671,2091,HTTP Request 100-1,429,Too Many Requests,100-1 6-91,text,false,,6995,2328,10,10,https://lapor.folkatech.com/api/report,2091,0,2055
+1741479703681,2098,HTTP Request 100-1,429,Too Many Requests,100-1 6-92,text,false,,6995,2412,9,9,https://lapor.folkatech.com/api/report,2098,0,2060
+1741479703686,2096,HTTP Request 100-1,429,Too Many Requests,100-1 6-93,text,false,,6995,2352,8,8,https://lapor.folkatech.com/api/report,2096,0,2059
+1741479703700,2098,HTTP Request 100-1,429,Too Many Requests,100-1 6-94,text,false,,6995,2376,7,7,https://lapor.folkatech.com/api/report,2098,0,2058
+1741479703706,2097,HTTP Request 100-1,429,Too Many Requests,100-1 6-95,text,false,,6995,2304,6,6,https://lapor.folkatech.com/api/report,2097,0,2058
+1741479703721,2104,HTTP Request 100-1,429,Too Many Requests,100-1 6-96,text,false,,6995,2352,5,5,https://lapor.folkatech.com/api/report,2104,0,2062
+1741479703734,2105,HTTP Request 100-1,429,Too Many Requests,100-1 6-97,text,false,,6995,2388,4,4,https://lapor.folkatech.com/api/report,2105,0,2063
+1741479703739,2104,HTTP Request 100-1,429,Too Many Requests,100-1 6-98,text,false,,6995,2388,3,3,https://lapor.folkatech.com/api/report,2104,0,2063
+1741479703754,2096,HTTP Request 100-1,429,Too Many Requests,100-1 6-99,text,false,,6995,2304,2,2,https://lapor.folkatech.com/api/report,2096,0,2059
+1741479703764,2094,HTTP Request 100-1,429,Too Many Requests,100-1 6-100,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,2094,0,2057
+1741479715869,112,HTTP Request 500-150,429,Too Many Requests,500-150 7-1,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,111,0,71
+1741479716169,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-2,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479716468,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-3,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,97,0,61
+1741479716771,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-4,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,102,0,63
+1741479717068,109,HTTP Request 500-150,429,Too Many Requests,500-150 7-5,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,109,0,69
+1741479717370,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-6,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,101,0,61
+1741479717668,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-7,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479717968,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-8,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479718271,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-9,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,103,0,64
+1741479718570,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-10,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,103,0,62
+1741479718871,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-11,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,107,0,64
+1741479719170,106,HTTP Request 500-150,429,Too Many Requests,500-150 7-12,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,106,0,66
+1741479719470,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-13,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,102,0,63
+1741479719766,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-14,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,98,0,61
+1741479720069,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-15,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,107,0,65
+1741479720369,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-16,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,100,0,60
+1741479720669,106,HTTP Request 500-150,429,Too Many Requests,500-150 7-17,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,106,0,65
+1741479720968,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-18,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,99,0,60
+1741479721269,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-19,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,100,0,60
+1741479721570,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-20,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,107,0,66
+1741479721871,173,HTTP Request 500-150,429,Too Many Requests,500-150 7-21,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,173,0,78
+1741479722169,114,HTTP Request 500-150,429,Too Many Requests,500-150 7-22,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,114,0,68
+1741479722468,120,HTTP Request 500-150,429,Too Many Requests,500-150 7-23,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,119,0,65
+1741479722769,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-24,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,101,0,61
+1741479723065,109,HTTP Request 500-150,429,Too Many Requests,500-150 7-25,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,109,0,62
+1741479723366,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-26,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,95,0,55
+1741479723669,109,HTTP Request 500-150,429,Too Many Requests,500-150 7-27,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,109,0,64
+1741479723969,109,HTTP Request 500-150,429,Too Many Requests,500-150 7-28,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,109,0,69
+1741479724268,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-29,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,98,0,59
+1741479724568,113,HTTP Request 500-150,429,Too Many Requests,500-150 7-30,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,112,0,73
+1741479724868,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-31,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,107,0,65
+1741479725168,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-32,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,95,0,58
+1741479725468,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-33,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,97,0,61
+1741479725763,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-34,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,103,0,64
+1741479726068,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-35,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,107,0,68
+1741479726363,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-36,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,96,0,59
+1741479726668,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-37,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,103,0,64
+1741479726963,93,HTTP Request 500-150,429,Too Many Requests,500-150 7-38,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,93,0,58
+1741479727264,111,HTTP Request 500-150,429,Too Many Requests,500-150 7-39,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,111,0,68
+1741479727563,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-40,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,102,0,63
+1741479727863,109,HTTP Request 500-150,429,Too Many Requests,500-150 7-41,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,109,0,65
+1741479728167,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-42,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,98,0,59
+1741479728466,106,HTTP Request 500-150,429,Too Many Requests,500-150 7-43,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,106,0,63
+1741479728767,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-44,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,102,0,62
+1741479729066,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-45,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,101,0,60
+1741479729363,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-46,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,104,0,64
+1741479729666,106,HTTP Request 500-150,429,Too Many Requests,500-150 7-47,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,106,0,62
+1741479729966,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-48,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,100,0,61
+1741479730269,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-49,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,102,0,62
+1741479730563,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-50,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,104,0,62
+1741479730866,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-51,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,101,0,61
+1741479731168,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-52,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,103,0,64
+1741479731466,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-53,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,104,0,64
+1741479731764,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-54,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,101,0,63
+1741479732062,111,HTTP Request 500-150,429,Too Many Requests,500-150 7-55,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,110,0,68
+1741479732368,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-56,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479732669,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-57,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,104,0,64
+1741479732967,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-58,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479733267,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-59,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,95,0,58
+1741479733569,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-60,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,104,0,62
+1741479733868,116,HTTP Request 500-150,429,Too Many Requests,500-150 7-61,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,116,0,69
+1741479734168,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-62,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,107,0,66
+1741479734462,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-63,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,98,0,59
+1741479734763,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-64,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,103,0,63
+1741479735072,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-65,text,false,,7001,2376,1,1,https://lapor.folkatech.com/api/report,102,0,62
+1741479735371,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-66,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,98,0,60
+1741479735670,115,HTTP Request 500-150,429,Too Many Requests,500-150 7-67,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,115,0,65
+1741479735970,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-68,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,103,0,64
+1741479736269,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-69,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,98,0,60
+1741479736569,94,HTTP Request 500-150,429,Too Many Requests,500-150 7-70,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,94,0,56
+1741479736870,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-71,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,99,0,58
+1741479737169,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-72,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,96,0,60
+1741479737468,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-73,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,98,0,59
+1741479737768,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-74,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,96,0,59
+1741479738069,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-75,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,96,0,59
+1741479738367,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-76,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,103,0,65
+1741479738671,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-77,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,98,0,60
+1741479738967,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-78,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,98,0,60
+1741479739268,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-79,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,97,0,59
+1741479739567,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-80,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,104,0,65
+1741479739871,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-81,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,103,0,61
+1741479740168,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-82,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,99,0,60
+1741479740469,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-83,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479740765,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-84,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,95,0,58
+1741479741065,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-85,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479741369,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-86,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,104,0,64
+1741479741667,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-87,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,104,0,64
+1741479741967,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-88,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479742269,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-89,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,97,0,59
+1741479742566,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-90,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479742869,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-91,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,103,0,63
+1741479743168,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-92,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,98,0,60
+1741479743469,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-93,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,97,0,59
+1741479743768,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-94,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,97,0,60
+1741479744070,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-95,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,99,0,62
+1741479744369,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-96,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,95,0,59
+1741479744666,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-97,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,100,0,60
+1741479744964,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-98,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479745262,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-99,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,105,0,65
+1741479745566,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-100,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,99,0,60
+1741479745868,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-101,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,96,0,56
+1741479746170,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-102,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,102,0,64
+1741479746470,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-103,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,103,0,64
+1741479746768,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-104,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,102,0,61
+1741479747069,108,HTTP Request 500-150,429,Too Many Requests,500-150 7-105,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,107,0,67
+1741479747371,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-106,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,102,0,63
+1741479747662,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-107,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,95,0,58
+1741479747967,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-108,text,false,,6994,2364,1,1,https://lapor.folkatech.com/api/report,103,0,64
+1741479748270,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-109,text,false,,6994,2412,1,1,https://lapor.folkatech.com/api/report,102,0,62
+1741479748571,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-110,text,false,,6994,2376,1,1,https://lapor.folkatech.com/api/report,103,0,63
+1741479748867,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-111,text,false,,6994,2328,1,1,https://lapor.folkatech.com/api/report,101,0,60
+1741479749171,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-112,text,false,,6994,2400,1,1,https://lapor.folkatech.com/api/report,107,0,68
+1741479749470,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-113,text,false,,6994,2352,1,1,https://lapor.folkatech.com/api/report,105,0,66
+1741479749768,109,HTTP Request 500-150,429,Too Many Requests,500-150 7-114,text,false,,6994,2400,1,1,https://lapor.folkatech.com/api/report,109,0,68
+1741479750069,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-115,text,false,,6994,2364,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479750366,112,HTTP Request 500-150,429,Too Many Requests,500-150 7-116,text,false,,6994,2304,1,1,https://lapor.folkatech.com/api/report,112,0,68
+1741479750665,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-117,text,false,,6994,2304,1,1,https://lapor.folkatech.com/api/report,99,0,60
+1741479750967,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-118,text,false,,6994,2340,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479751267,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-119,text,false,,6994,2364,1,1,https://lapor.folkatech.com/api/report,98,0,60
+1741479751567,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-120,text,false,,6994,2376,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479751863,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-121,text,false,,6994,2388,1,1,https://lapor.folkatech.com/api/report,95,0,58
+1741479752168,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-122,text,false,,6994,2412,1,1,https://lapor.folkatech.com/api/report,105,0,65
+1741479752470,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-123,text,false,,6994,2328,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479752764,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-124,text,false,,6994,2412,1,1,https://lapor.folkatech.com/api/report,97,0,60
+1741479753066,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-125,text,false,,6994,2316,1,1,https://lapor.folkatech.com/api/report,99,0,60
+1741479753364,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-126,text,false,,6994,2316,1,1,https://lapor.folkatech.com/api/report,105,0,65
+1741479753668,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-127,text,false,,6994,2316,1,1,https://lapor.folkatech.com/api/report,102,0,65
+1741479753967,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-128,text,false,,6994,2328,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479754270,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-129,text,false,,6994,2388,1,1,https://lapor.folkatech.com/api/report,107,0,68
+1741479754567,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-130,text,false,,6994,2304,1,1,https://lapor.folkatech.com/api/report,105,0,65
+1741479754866,113,HTTP Request 500-150,429,Too Many Requests,500-150 7-131,text,false,,6994,2424,1,1,https://lapor.folkatech.com/api/report,113,0,67
+1741479755169,108,HTTP Request 500-150,429,Too Many Requests,500-150 7-132,text,false,,6994,2340,1,1,https://lapor.folkatech.com/api/report,108,0,67
+1741479755468,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-133,text,false,,6994,2388,1,1,https://lapor.folkatech.com/api/report,99,0,60
+1741479755771,94,HTTP Request 500-150,429,Too Many Requests,500-150 7-134,text,false,,6994,2316,1,1,https://lapor.folkatech.com/api/report,93,0,59
+1741479756069,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-135,text,false,,6994,2328,1,1,https://lapor.folkatech.com/api/report,101,0,63
+1741479756367,94,HTTP Request 500-150,429,Too Many Requests,500-150 7-136,text,false,,7000,2400,1,1,https://lapor.folkatech.com/api/report,94,0,57
+1741479756669,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-137,text,false,,6994,2352,1,1,https://lapor.folkatech.com/api/report,97,0,61
+1741479756967,296,HTTP Request 500-150,200,OK,500-150 7-138,text,true,,356,2364,1,1,https://lapor.folkatech.com/api/report,296,0,64
+1741479757266,283,HTTP Request 500-150,200,OK,500-150 7-139,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,283,0,58
+1741479757567,299,HTTP Request 500-150,200,OK,500-150 7-140,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,298,0,58
+1741479757869,281,HTTP Request 500-150,200,OK,500-150 7-141,text,true,,356,2304,1,1,https://lapor.folkatech.com/api/report,280,0,61
+1741479758168,287,HTTP Request 500-150,200,OK,500-150 7-142,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,287,0,61
+1741479758468,286,HTTP Request 500-150,200,OK,500-150 7-143,text,true,,356,2304,1,1,https://lapor.folkatech.com/api/report,286,0,64
+1741479758768,299,HTTP Request 500-150,200,OK,500-150 7-144,text,true,,356,2424,2,2,https://lapor.folkatech.com/api/report,299,0,64
+1741479759065,303,HTTP Request 500-150,200,OK,500-150 7-145,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,303,0,64
+1741479759363,332,HTTP Request 500-150,200,OK,500-150 7-146,text,true,,356,2388,2,2,https://lapor.folkatech.com/api/report,332,0,68
+1741479759666,313,HTTP Request 500-150,200,OK,500-150 7-147,text,true,,356,2424,2,2,https://lapor.folkatech.com/api/report,313,0,61
+1741479759967,299,HTTP Request 500-150,200,OK,500-150 7-148,text,true,,356,2352,2,2,https://lapor.folkatech.com/api/report,299,0,66
+1741479760262,302,HTTP Request 500-150,200,OK,500-150 7-149,text,true,,356,2340,2,2,https://lapor.folkatech.com/api/report,302,0,62
+1741479760564,331,HTTP Request 500-150,200,OK,500-150 7-150,text,true,,356,2316,2,2,https://lapor.folkatech.com/api/report,330,0,73
+1741479760869,316,HTTP Request 500-150,200,OK,500-150 7-151,text,true,,356,2388,2,2,https://lapor.folkatech.com/api/report,316,0,59
+1741479761168,314,HTTP Request 500-150,200,OK,500-150 7-152,text,true,,356,2376,2,2,https://lapor.folkatech.com/api/report,314,0,62
+1741479761470,305,HTTP Request 500-150,200,OK,500-150 7-153,text,true,,356,2304,2,2,https://lapor.folkatech.com/api/report,304,0,61
+1741479761767,296,HTTP Request 500-150,200,OK,500-150 7-154,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,296,0,62
+1741479762067,299,HTTP Request 500-150,200,OK,500-150 7-155,text,true,,356,2316,2,2,https://lapor.folkatech.com/api/report,299,0,62
+1741479762365,311,HTTP Request 500-150,200,OK,500-150 7-156,text,true,,356,2376,2,2,https://lapor.folkatech.com/api/report,311,0,56
+1741479762667,299,HTTP Request 500-150,200,OK,500-150 7-157,text,true,,356,2316,2,2,https://lapor.folkatech.com/api/report,298,0,63
+1741479762967,301,HTTP Request 500-150,200,OK,500-150 7-158,text,true,,356,2352,2,2,https://lapor.folkatech.com/api/report,301,0,61
+1741479763266,304,HTTP Request 500-150,200,OK,500-150 7-159,text,true,,356,2376,2,2,https://lapor.folkatech.com/api/report,304,0,61
+1741479763567,293,HTTP Request 500-150,200,OK,500-150 7-160,text,true,,356,2412,1,1,https://lapor.folkatech.com/api/report,293,0,68
+1741479763867,304,HTTP Request 500-150,200,OK,500-150 7-161,text,true,,356,2328,2,2,https://lapor.folkatech.com/api/report,304,0,63
+1741479764168,308,HTTP Request 500-150,200,OK,500-150 7-162,text,true,,356,2424,2,2,https://lapor.folkatech.com/api/report,308,0,62
+1741479764468,311,HTTP Request 500-150,200,OK,500-150 7-163,text,true,,356,2400,2,2,https://lapor.folkatech.com/api/report,311,0,63
+1741479764768,331,HTTP Request 500-150,200,OK,500-150 7-164,text,true,,356,2352,2,2,https://lapor.folkatech.com/api/report,330,0,63
+1741479765063,373,HTTP Request 500-150,200,OK,500-150 7-165,text,true,,356,2376,2,2,https://lapor.folkatech.com/api/report,373,0,61
+1741479765368,375,HTTP Request 500-150,200,OK,500-150 7-166,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,375,0,70
+1741479765667,401,HTTP Request 500-150,200,OK,500-150 7-167,text,true,,356,2304,2,2,https://lapor.folkatech.com/api/report,401,0,70
+1741479765967,313,HTTP Request 500-150,200,OK,500-150 7-168,text,true,,356,2316,2,2,https://lapor.folkatech.com/api/report,313,0,66
+1741479766269,296,HTTP Request 500-150,200,OK,500-150 7-169,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,296,0,69
+1741479766568,295,HTTP Request 500-150,200,OK,500-150 7-170,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,295,0,62
+1741479766870,288,HTTP Request 500-150,200,OK,500-150 7-171,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,288,0,58
+1741479767164,282,HTTP Request 500-150,200,OK,500-150 7-172,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,282,0,66
+1741479767464,312,HTTP Request 500-150,200,OK,500-150 7-173,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,312,0,66
+1741479767762,293,HTTP Request 500-150,200,OK,500-150 7-174,text,true,,356,2400,1,1,https://lapor.folkatech.com/api/report,293,0,60
+1741479768064,296,HTTP Request 500-150,200,OK,500-150 7-175,text,true,,356,2304,1,1,https://lapor.folkatech.com/api/report,296,0,64
+1741479768366,276,HTTP Request 500-150,200,OK,500-150 7-176,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,276,0,57
+1741479768666,301,HTTP Request 500-150,200,OK,500-150 7-177,text,true,,356,2352,2,2,https://lapor.folkatech.com/api/report,301,0,61
+1741479768962,291,HTTP Request 500-150,200,OK,500-150 7-178,text,true,,356,2304,1,1,https://lapor.folkatech.com/api/report,291,0,59
+1741479769263,312,HTTP Request 500-150,200,OK,500-150 7-179,text,true,,356,2352,2,2,https://lapor.folkatech.com/api/report,312,0,65
+1741479769571,314,HTTP Request 500-150,200,OK,500-150 7-180,text,true,,356,2352,2,2,https://lapor.folkatech.com/api/report,313,0,63
+1741479769867,345,HTTP Request 500-150,200,OK,500-150 7-181,text,true,,356,2364,2,2,https://lapor.folkatech.com/api/report,345,0,64
+1741479770166,328,HTTP Request 500-150,200,OK,500-150 7-182,text,true,,356,2400,2,2,https://lapor.folkatech.com/api/report,328,0,64
+1741479770462,303,HTTP Request 500-150,200,OK,500-150 7-183,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,303,0,69
+1741479770769,351,HTTP Request 500-150,200,OK,500-150 7-184,text,true,,356,2316,2,2,https://lapor.folkatech.com/api/report,351,0,65
+1741479771063,305,HTTP Request 500-150,200,OK,500-150 7-185,text,true,,356,2304,2,2,https://lapor.folkatech.com/api/report,305,0,63
+1741479771368,292,HTTP Request 500-150,200,OK,500-150 7-186,text,true,,356,2424,1,1,https://lapor.folkatech.com/api/report,292,0,60
+1741479771667,306,HTTP Request 500-150,200,OK,500-150 7-187,text,true,,356,2304,2,2,https://lapor.folkatech.com/api/report,306,0,61
+1741479771969,298,HTTP Request 500-150,200,OK,500-150 7-188,text,true,,355,2376,2,2,https://lapor.folkatech.com/api/report,298,0,67
+1741479772268,282,HTTP Request 500-150,200,OK,500-150 7-189,text,true,,355,2328,1,1,https://lapor.folkatech.com/api/report,282,0,64
+1741479772566,295,HTTP Request 500-150,200,OK,500-150 7-190,text,true,,355,2328,1,1,https://lapor.folkatech.com/api/report,295,0,59
+1741479772866,313,HTTP Request 500-150,200,OK,500-150 7-191,text,true,,355,2412,2,2,https://lapor.folkatech.com/api/report,313,0,64
+1741479773166,306,HTTP Request 500-150,200,OK,500-150 7-192,text,true,,355,2364,2,2,https://lapor.folkatech.com/api/report,306,0,63
+1741479773469,279,HTTP Request 500-150,200,OK,500-150 7-193,text,true,,355,2328,1,1,https://lapor.folkatech.com/api/report,279,0,61
+1741479773770,288,HTTP Request 500-150,200,OK,500-150 7-194,text,true,,355,2352,1,1,https://lapor.folkatech.com/api/report,287,0,61
+1741479774061,309,HTTP Request 500-150,200,OK,500-150 7-195,text,true,,355,2376,2,2,https://lapor.folkatech.com/api/report,309,0,63
+1741479774366,305,HTTP Request 500-150,200,OK,500-150 7-196,text,true,,355,2424,2,2,https://lapor.folkatech.com/api/report,304,0,61
+1741479774669,303,HTTP Request 500-150,200,OK,500-150 7-197,text,true,,355,2412,2,2,https://lapor.folkatech.com/api/report,303,0,58
+1741479774968,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-198,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,95,0,59
+1741479775268,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-199,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,99,0,60
+1741479775568,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-200,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,105,0,64
+1741479775868,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-201,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,104,0,62
+1741479776170,109,HTTP Request 500-150,429,Too Many Requests,500-150 7-202,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,109,0,68
+1741479776470,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-203,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479776768,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-204,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479777066,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-205,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,101,0,63
+1741479777370,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-206,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,97,0,61
+1741479777668,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-207,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,99,0,62
+1741479777969,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-208,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,102,0,62
+1741479778269,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-209,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,97,0,59
+1741479778568,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-210,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,99,0,62
+1741479778867,111,HTTP Request 500-150,429,Too Many Requests,500-150 7-211,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,111,0,66
+1741479779167,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-212,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479779467,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-213,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479779765,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-214,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,101,0,60
+1741479780067,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-215,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,100,0,61
+1741479780363,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-216,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,100,0,61
+1741479780666,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-217,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479780968,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-218,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,101,0,61
+1741479781269,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-219,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,103,0,60
+1741479781568,106,HTTP Request 500-150,429,Too Many Requests,500-150 7-220,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,106,0,64
+1741479781868,117,HTTP Request 500-150,429,Too Many Requests,500-150 7-221,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,117,0,69
+1741479782169,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-222,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479782469,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-223,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,102,0,62
+1741479782768,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-224,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,101,0,61
+1741479783067,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-225,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,101,0,61
+1741479783369,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-226,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,97,0,59
+1741479783667,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-227,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,98,0,60
+1741479783968,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-228,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,104,0,62
+1741479784269,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-229,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,100,0,61
+1741479784566,120,HTTP Request 500-150,429,Too Many Requests,500-150 7-230,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,120,0,77
+1741479784866,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-231,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,107,0,62
+1741479785166,108,HTTP Request 500-150,429,Too Many Requests,500-150 7-232,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,108,0,67
+1741479785466,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-233,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,103,0,64
+1741479785761,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-234,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,104,0,65
+1741479786061,94,HTTP Request 500-150,429,Too Many Requests,500-150 7-235,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,94,0,58
+1741479786365,109,HTTP Request 500-150,429,Too Many Requests,500-150 7-236,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,109,0,67
+1741479786665,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-237,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,101,0,61
+1741479786970,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-238,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479787266,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-239,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,100,0,60
+1741479787566,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-240,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,98,0,61
+1741479787866,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-241,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,103,0,61
+1741479788163,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-242,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,97,0,60
+1741479788466,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-243,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,105,0,65
+1741479788766,92,HTTP Request 500-150,429,Too Many Requests,500-150 7-244,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,92,0,56
+1741479789063,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-245,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479789370,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-246,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479789663,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-247,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,96,0,57
+1741479789967,93,HTTP Request 500-150,429,Too Many Requests,500-150 7-248,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,93,0,56
+1741479790262,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-249,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,107,0,69
+1741479790564,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-250,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479790862,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-251,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,99,0,60
+1741479791163,109,HTTP Request 500-150,429,Too Many Requests,500-150 7-252,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,109,0,68
+1741479791464,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-253,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479791767,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-254,text,false,,7001,2352,1,1,https://lapor.folkatech.com/api/report,96,0,59
+1741479792067,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-255,text,false,,7001,2400,1,1,https://lapor.folkatech.com/api/report,106,0,63
+1741479792363,94,HTTP Request 500-150,429,Too Many Requests,500-150 7-256,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,94,0,58
+1741479792668,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-257,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,101,0,63
+1741479792963,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-258,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479793265,92,HTTP Request 500-150,429,Too Many Requests,500-150 7-259,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,92,0,55
+1741479793562,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-260,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,103,0,65
+1741479793869,114,HTTP Request 500-150,429,Too Many Requests,500-150 7-261,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,114,0,67
+1741479794166,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-262,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,95,0,60
+1741479794466,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-263,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,99,0,63
+1741479794769,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-264,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,105,0,65
+1741479795066,94,HTTP Request 500-150,429,Too Many Requests,500-150 7-265,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,94,0,58
+1741479795370,106,HTTP Request 500-150,429,Too Many Requests,500-150 7-266,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,106,0,66
+1741479795665,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-267,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479795966,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-268,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,105,0,68
+1741479796266,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-269,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,104,0,63
+1741479796568,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-270,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,105,0,64
+1741479796868,106,HTTP Request 500-150,429,Too Many Requests,500-150 7-271,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,106,0,65
+1741479797168,108,HTTP Request 500-150,429,Too Many Requests,500-150 7-272,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,108,0,68
+1741479797461,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-273,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,98,0,59
+1741479797771,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-274,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,101,0,60
+1741479798068,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-275,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,100,0,61
+1741479798368,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-276,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,95,0,59
+1741479798665,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-277,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,96,0,57
+1741479798968,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-278,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,102,0,64
+1741479799269,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-279,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,102,0,63
+1741479799564,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-280,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479799866,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-281,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,103,0,62
+1741479800168,112,HTTP Request 500-150,429,Too Many Requests,500-150 7-282,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,112,0,65
+1741479800467,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-283,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,96,0,58
+1741479800766,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-284,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,95,0,58
+1741479801066,90,HTTP Request 500-150,429,Too Many Requests,500-150 7-285,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,90,0,54
+1741479801369,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-286,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,102,0,63
+1741479801670,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-287,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,103,0,63
+1741479801970,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-288,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,102,0,62
+1741479802269,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-289,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,105,0,64
+1741479802563,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-290,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,97,0,60
+1741479802867,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-291,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,97,0,58
+1741479803166,91,HTTP Request 500-150,429,Too Many Requests,500-150 7-292,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,91,0,56
+1741479803467,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-293,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479803766,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-294,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,95,0,55
+1741479804067,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-295,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,100,0,60
+1741479804370,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-296,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,99,0,59
+1741479804665,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-297,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,97,0,60
+1741479804969,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-298,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,95,0,58
+1741479805263,91,HTTP Request 500-150,429,Too Many Requests,500-150 7-299,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,91,0,53
+1741479805567,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-300,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,97,0,61
+1741479805869,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-301,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,103,0,62
+1741479806167,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-302,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,102,0,63
+1741479806470,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-303,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,101,0,64
+1741479806767,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-304,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,97,0,60
+1741479807067,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-305,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,103,0,63
+1741479807363,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-306,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479807666,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-307,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479807965,112,HTTP Request 500-150,429,Too Many Requests,500-150 7-308,text,false,,6994,2364,1,1,https://lapor.folkatech.com/api/report,112,0,70
+1741479808265,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-309,text,false,,6994,2364,1,1,https://lapor.folkatech.com/api/report,100,0,64
+1741479808567,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-310,text,false,,6994,2400,1,1,https://lapor.folkatech.com/api/report,96,0,60
+1741479808866,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-311,text,false,,6994,2388,1,1,https://lapor.folkatech.com/api/report,103,0,65
+1741479809167,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-312,text,false,,7000,2388,1,1,https://lapor.folkatech.com/api/report,95,0,58
+1741479809466,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-313,text,false,,6994,2376,1,1,https://lapor.folkatech.com/api/report,101,0,63
+1741479809767,109,HTTP Request 500-150,429,Too Many Requests,500-150 7-314,text,false,,6994,2388,1,1,https://lapor.folkatech.com/api/report,108,0,67
+1741479810067,109,HTTP Request 500-150,429,Too Many Requests,500-150 7-315,text,false,,6994,2424,1,1,https://lapor.folkatech.com/api/report,109,0,63
+1741479810367,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-316,text,false,,6994,2400,1,1,https://lapor.folkatech.com/api/report,96,0,58
+1741479810667,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-317,text,false,,6994,2364,1,1,https://lapor.folkatech.com/api/report,102,0,63
+1741479810969,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-318,text,false,,6994,2304,1,1,https://lapor.folkatech.com/api/report,102,0,63
+1741479811267,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-319,text,false,,6994,2412,1,1,https://lapor.folkatech.com/api/report,105,0,65
+1741479811569,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-320,text,false,,6994,2376,1,1,https://lapor.folkatech.com/api/report,102,0,62
+1741479811866,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-321,text,false,,6994,2328,1,1,https://lapor.folkatech.com/api/report,103,0,64
+1741479812169,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-322,text,false,,6994,2376,1,1,https://lapor.folkatech.com/api/report,102,0,64
+1741479812467,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-323,text,false,,6994,2424,1,1,https://lapor.folkatech.com/api/report,95,0,57
+1741479812768,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-324,text,false,,6994,2412,1,1,https://lapor.folkatech.com/api/report,97,0,59
+1741479813069,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-325,text,false,,6994,2388,1,1,https://lapor.folkatech.com/api/report,95,0,57
+1741479813368,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-326,text,false,,6994,2364,1,1,https://lapor.folkatech.com/api/report,97,0,60
+1741479813670,108,HTTP Request 500-150,429,Too Many Requests,500-150 7-327,text,false,,6994,2412,1,1,https://lapor.folkatech.com/api/report,108,0,66
+1741479813969,109,HTTP Request 500-150,429,Too Many Requests,500-150 7-328,text,false,,6994,2316,1,1,https://lapor.folkatech.com/api/report,109,0,65
+1741479814270,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-329,text,false,,6994,2376,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479814564,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-330,text,false,,6994,2388,1,1,https://lapor.folkatech.com/api/report,99,0,60
+1741479814869,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-331,text,false,,6994,2328,1,1,https://lapor.folkatech.com/api/report,103,0,61
+1741479815168,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-332,text,false,,6994,2328,1,1,https://lapor.folkatech.com/api/report,101,0,61
+1741479815471,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-333,text,false,,6994,2364,1,1,https://lapor.folkatech.com/api/report,101,0,61
+1741479815763,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-334,text,false,,6994,2340,1,1,https://lapor.folkatech.com/api/report,107,0,66
+1741479816070,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-335,text,false,,6994,2376,1,1,https://lapor.folkatech.com/api/report,99,0,62
+1741479816368,108,HTTP Request 500-150,429,Too Many Requests,500-150 7-336,text,false,,6994,2328,1,1,https://lapor.folkatech.com/api/report,108,0,67
+1741479816668,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-337,text,false,,6994,2316,1,1,https://lapor.folkatech.com/api/report,96,0,59
+1741479816970,295,HTTP Request 500-150,200,OK,500-150 7-338,text,true,,356,2364,1,1,https://lapor.folkatech.com/api/report,295,0,62
+1741479817271,293,HTTP Request 500-150,200,OK,500-150 7-339,text,true,,356,2328,1,1,https://lapor.folkatech.com/api/report,293,0,61
+1741479817569,302,HTTP Request 500-150,200,OK,500-150 7-340,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,302,0,67
+1741479817869,301,HTTP Request 500-150,200,OK,500-150 7-341,text,true,,356,2304,2,2,https://lapor.folkatech.com/api/report,301,0,68
+1741479818166,314,HTTP Request 500-150,200,OK,500-150 7-342,text,true,,356,2388,2,2,https://lapor.folkatech.com/api/report,314,0,57
+1741479818470,302,HTTP Request 500-150,200,OK,500-150 7-343,text,true,,356,2364,2,2,https://lapor.folkatech.com/api/report,302,0,63
+1741479818771,310,HTTP Request 500-150,200,OK,500-150 7-344,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,310,0,65
+1741479819071,297,HTTP Request 500-150,200,OK,500-150 7-345,text,true,,356,2376,1,1,https://lapor.folkatech.com/api/report,297,0,60
+1741479819369,317,HTTP Request 500-150,200,OK,500-150 7-346,text,true,,356,2388,2,2,https://lapor.folkatech.com/api/report,317,0,62
+1741479819669,337,HTTP Request 500-150,200,OK,500-150 7-347,text,true,,356,2316,2,2,https://lapor.folkatech.com/api/report,337,0,61
+1741479819968,317,HTTP Request 500-150,200,OK,500-150 7-348,text,true,,356,2352,2,2,https://lapor.folkatech.com/api/report,317,0,61
+1741479820268,324,HTTP Request 500-150,200,OK,500-150 7-349,text,true,,356,2400,2,2,https://lapor.folkatech.com/api/report,324,0,64
+1741479820569,344,HTTP Request 500-150,200,OK,500-150 7-350,text,true,,356,2376,2,2,https://lapor.folkatech.com/api/report,344,0,64
+1741479820865,341,HTTP Request 500-150,200,OK,500-150 7-351,text,true,,356,2400,2,2,https://lapor.folkatech.com/api/report,341,0,67
+1741479821168,318,HTTP Request 500-150,200,OK,500-150 7-352,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,318,0,59
+1741479821465,318,HTTP Request 500-150,200,OK,500-150 7-353,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,318,0,62
+1741479821769,328,HTTP Request 500-150,200,OK,500-150 7-354,text,true,,356,2316,2,2,https://lapor.folkatech.com/api/report,328,0,59
+1741479822067,331,HTTP Request 500-150,200,OK,500-150 7-355,text,true,,356,2352,2,2,https://lapor.folkatech.com/api/report,331,0,66
+1741479822366,310,HTTP Request 500-150,200,OK,500-150 7-356,text,true,,356,2340,2,2,https://lapor.folkatech.com/api/report,310,0,66
+1741479822669,318,HTTP Request 500-150,200,OK,500-150 7-357,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,318,0,60
+1741479822970,311,HTTP Request 500-150,200,OK,500-150 7-358,text,true,,356,2304,2,2,https://lapor.folkatech.com/api/report,311,0,61
+1741479823266,291,HTTP Request 500-150,200,OK,500-150 7-359,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,291,0,59
+1741479823568,311,HTTP Request 500-150,200,OK,500-150 7-360,text,true,,356,2340,2,2,https://lapor.folkatech.com/api/report,311,0,70
+1741479823868,298,HTTP Request 500-150,200,OK,500-150 7-361,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,298,0,60
+1741479824167,300,HTTP Request 500-150,200,OK,500-150 7-362,text,true,,356,2328,2,2,https://lapor.folkatech.com/api/report,300,0,62
+1741479824467,311,HTTP Request 500-150,200,OK,500-150 7-363,text,true,,356,2304,2,2,https://lapor.folkatech.com/api/report,311,0,60
+1741479824766,307,HTTP Request 500-150,200,OK,500-150 7-364,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,307,0,61
+1741479825069,299,HTTP Request 500-150,200,OK,500-150 7-365,text,true,,356,2304,2,2,https://lapor.folkatech.com/api/report,299,0,60
+1741479825367,296,HTTP Request 500-150,200,OK,500-150 7-366,text,true,,356,2364,1,1,https://lapor.folkatech.com/api/report,296,0,63
+1741479825666,315,HTTP Request 500-150,200,OK,500-150 7-367,text,true,,356,2352,2,2,https://lapor.folkatech.com/api/report,315,0,63
+1741479825969,296,HTTP Request 500-150,200,OK,500-150 7-368,text,true,,356,2376,2,2,https://lapor.folkatech.com/api/report,296,0,61
+1741479826262,301,HTTP Request 500-150,200,OK,500-150 7-369,text,true,,356,2388,1,1,https://lapor.folkatech.com/api/report,301,0,58
+1741479826566,289,HTTP Request 500-150,200,OK,500-150 7-370,text,true,,356,2376,1,1,https://lapor.folkatech.com/api/report,289,0,60
+1741479826867,293,HTTP Request 500-150,200,OK,500-150 7-371,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,293,0,63
+1741479827167,352,HTTP Request 500-150,200,OK,500-150 7-372,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,352,0,62
+1741479827467,632,HTTP Request 500-150,200,OK,500-150 7-373,text,true,,356,2388,3,3,https://lapor.folkatech.com/api/report,632,0,63
+1741479827768,415,HTTP Request 500-150,200,OK,500-150 7-374,text,true,,356,2424,2,2,https://lapor.folkatech.com/api/report,415,0,61
+1741479828067,335,HTTP Request 500-150,200,OK,500-150 7-375,text,true,,356,2400,2,2,https://lapor.folkatech.com/api/report,335,0,60
+1741479828368,304,HTTP Request 500-150,200,OK,500-150 7-376,text,true,,356,2328,2,2,https://lapor.folkatech.com/api/report,304,0,67
+1741479828668,294,HTTP Request 500-150,200,OK,500-150 7-377,text,true,,356,2412,1,1,https://lapor.folkatech.com/api/report,294,0,60
+1741479828966,301,HTTP Request 500-150,200,OK,500-150 7-378,text,true,,356,2316,2,2,https://lapor.folkatech.com/api/report,301,0,61
+1741479829267,292,HTTP Request 500-150,200,OK,500-150 7-379,text,true,,356,2316,1,1,https://lapor.folkatech.com/api/report,292,0,61
+1741479829563,290,HTTP Request 500-150,200,OK,500-150 7-380,text,true,,356,2340,1,1,https://lapor.folkatech.com/api/report,290,0,62
+1741479829866,308,HTTP Request 500-150,200,OK,500-150 7-381,text,true,,356,2376,2,2,https://lapor.folkatech.com/api/report,308,0,61
+1741479830164,313,HTTP Request 500-150,200,OK,500-150 7-382,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,313,0,58
+1741479830468,310,HTTP Request 500-150,200,OK,500-150 7-383,text,true,,356,2328,2,2,https://lapor.folkatech.com/api/report,310,0,60
+1741479830766,297,HTTP Request 500-150,200,OK,500-150 7-384,text,true,,356,2376,1,1,https://lapor.folkatech.com/api/report,297,0,63
+1741479831066,301,HTTP Request 500-150,200,OK,500-150 7-385,text,true,,356,2412,2,2,https://lapor.folkatech.com/api/report,301,0,65
+1741479831367,298,HTTP Request 500-150,200,OK,500-150 7-386,text,true,,356,2364,2,2,https://lapor.folkatech.com/api/report,298,0,58
+1741479831664,307,HTTP Request 500-150,200,OK,500-150 7-387,text,true,,356,2364,2,2,https://lapor.folkatech.com/api/report,307,0,60
+1741479831965,317,HTTP Request 500-150,200,OK,500-150 7-388,text,true,,355,2412,2,2,https://lapor.folkatech.com/api/report,317,0,67
+1741479832262,304,HTTP Request 500-150,200,OK,500-150 7-389,text,true,,355,2388,2,2,https://lapor.folkatech.com/api/report,304,0,59
+1741479832563,305,HTTP Request 500-150,200,OK,500-150 7-390,text,true,,355,2304,2,2,https://lapor.folkatech.com/api/report,305,0,60
+1741479832869,328,HTTP Request 500-150,200,OK,500-150 7-391,text,true,,355,2364,2,2,https://lapor.folkatech.com/api/report,328,0,60
+1741479833169,319,HTTP Request 500-150,200,OK,500-150 7-392,text,true,,355,2328,2,2,https://lapor.folkatech.com/api/report,319,0,64
+1741479833470,321,HTTP Request 500-150,200,OK,500-150 7-393,text,true,,355,2412,2,2,https://lapor.folkatech.com/api/report,321,0,63
+1741479833767,301,HTTP Request 500-150,200,OK,500-150 7-394,text,true,,355,2364,2,2,https://lapor.folkatech.com/api/report,301,0,62
+1741479834070,292,HTTP Request 500-150,200,OK,500-150 7-395,text,true,,355,2412,2,2,https://lapor.folkatech.com/api/report,292,0,56
+1741479834362,300,HTTP Request 500-150,200,OK,500-150 7-396,text,true,,355,2400,1,1,https://lapor.folkatech.com/api/report,300,0,60
+1741479834668,294,HTTP Request 500-150,200,OK,500-150 7-397,text,true,,355,2376,1,1,https://lapor.folkatech.com/api/report,294,0,58
+1741479834969,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-398,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479835267,108,HTTP Request 500-150,429,Too Many Requests,500-150 7-399,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,108,0,66
+1741479835569,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-400,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,97,0,61
+1741479835868,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-401,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,105,0,64
+1741479836169,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-402,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,100,0,61
+1741479836469,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-403,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,107,0,68
+1741479836768,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-404,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,97,0,61
+1741479837067,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-405,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,102,0,60
+1741479837366,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-406,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,104,0,64
+1741479837668,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-407,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479837966,110,HTTP Request 500-150,429,Too Many Requests,500-150 7-408,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,110,0,69
+1741479838266,106,HTTP Request 500-150,429,Too Many Requests,500-150 7-409,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,106,0,63
+1741479838563,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-410,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,95,0,55
+1741479838867,109,HTTP Request 500-150,429,Too Many Requests,500-150 7-411,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,109,0,67
+1741479839165,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-412,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,99,0,60
+1741479839468,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-413,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,107,0,65
+1741479839766,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-414,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,105,0,63
+1741479840068,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-415,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,107,0,57
+1741479840366,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-416,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,105,0,63
+1741479840666,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-417,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,98,0,60
+1741479840966,108,HTTP Request 500-150,429,Too Many Requests,500-150 7-418,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,108,0,60
+1741479841267,112,HTTP Request 500-150,429,Too Many Requests,500-150 7-419,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,112,0,67
+1741479841566,113,HTTP Request 500-150,429,Too Many Requests,500-150 7-420,text,false,,7001,2328,1,1,https://lapor.folkatech.com/api/report,113,0,61
+1741479841861,126,HTTP Request 500-150,429,Too Many Requests,500-150 7-421,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,126,0,69
+1741479842165,113,HTTP Request 500-150,429,Too Many Requests,500-150 7-422,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,113,0,67
+1741479842466,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-423,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,101,0,59
+1741479842773,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-424,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,97,0,58
+1741479843067,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-425,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,100,0,63
+1741479843369,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-426,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,103,0,64
+1741479843668,114,HTTP Request 500-150,429,Too Many Requests,500-150 7-427,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,114,0,71
+1741479843966,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-428,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,100,0,61
+1741479844266,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-429,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,105,0,64
+1741479844566,109,HTTP Request 500-150,429,Too Many Requests,500-150 7-430,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,109,0,70
+1741479844866,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-431,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,98,0,59
+1741479845169,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-432,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,98,0,61
+1741479845465,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-433,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,96,0,60
+1741479845770,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-434,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,107,0,64
+1741479846067,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-435,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,101,0,63
+1741479846367,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-436,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,98,0,59
+1741479846663,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-437,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,100,0,60
+1741479846966,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-438,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479847267,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-439,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,104,0,64
+1741479847566,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-440,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479847866,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-441,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,104,0,62
+1741479848166,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-442,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,97,0,58
+1741479848468,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-443,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,105,0,65
+1741479848766,108,HTTP Request 500-150,429,Too Many Requests,500-150 7-444,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,108,0,65
+1741479849070,108,HTTP Request 500-150,429,Too Many Requests,500-150 7-445,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,108,0,67
+1741479849371,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-446,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,102,0,63
+1741479849668,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-447,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,99,0,61
+1741479849969,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-448,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,101,0,61
+1741479850268,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-449,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,105,0,63
+1741479850569,93,HTTP Request 500-150,429,Too Many Requests,500-150 7-450,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,93,0,56
+1741479850869,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-451,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,95,0,57
+1741479851168,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-452,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,102,0,62
+1741479851467,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-453,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,97,0,58
+1741479851767,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-454,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,96,0,58
+1741479852069,110,HTTP Request 500-150,429,Too Many Requests,500-150 7-455,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,110,0,68
+1741479852369,94,HTTP Request 500-150,429,Too Many Requests,500-150 7-456,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,94,0,58
+1741479852668,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-457,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,95,0,57
+1741479852968,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-458,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,100,0,60
+1741479853268,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-459,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,102,0,62
+1741479853569,94,HTTP Request 500-150,429,Too Many Requests,500-150 7-460,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,94,0,58
+1741479853868,106,HTTP Request 500-150,429,Too Many Requests,500-150 7-461,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,106,0,66
+1741479854169,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-462,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,96,0,59
+1741479854467,111,HTTP Request 500-150,429,Too Many Requests,500-150 7-463,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,111,0,70
+1741479854768,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-464,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,98,0,61
+1741479855068,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-465,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,105,0,64
+1741479855370,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-466,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,100,0,60
+1741479855668,110,HTTP Request 500-150,429,Too Many Requests,500-150 7-467,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,110,0,65
+1741479855968,100,HTTP Request 500-150,429,Too Many Requests,500-150 7-468,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,100,0,62
+1741479856266,105,HTTP Request 500-150,429,Too Many Requests,500-150 7-469,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,105,0,66
+1741479856566,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-470,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,98,0,61
+1741479856867,104,HTTP Request 500-150,429,Too Many Requests,500-150 7-471,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,104,0,62
+1741479857163,96,HTTP Request 500-150,429,Too Many Requests,500-150 7-472,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,96,0,58
+1741479857464,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-473,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,102,0,64
+1741479857766,99,HTTP Request 500-150,429,Too Many Requests,500-150 7-474,text,false,,6995,2304,1,1,https://lapor.folkatech.com/api/report,99,0,60
+1741479858067,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-475,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,101,0,62
+1741479858362,95,HTTP Request 500-150,429,Too Many Requests,500-150 7-476,text,false,,7001,2304,1,1,https://lapor.folkatech.com/api/report,95,0,57
+1741479858667,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-477,text,false,,6995,2352,1,1,https://lapor.folkatech.com/api/report,101,0,63
+1741479858968,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-478,text,false,,6995,2376,1,1,https://lapor.folkatech.com/api/report,101,0,63
+1741479859266,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-479,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,97,0,60
+1741479859566,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-480,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,107,0,66
+1741479859865,109,HTTP Request 500-150,429,Too Many Requests,500-150 7-481,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,109,0,64
+1741479860165,110,HTTP Request 500-150,429,Too Many Requests,500-150 7-482,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,110,0,68
+1741479860461,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-483,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,102,0,61
+1741479860766,102,HTTP Request 500-150,429,Too Many Requests,500-150 7-484,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,102,0,62
+1741479861065,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-485,text,false,,7001,2412,1,1,https://lapor.folkatech.com/api/report,97,0,58
+1741479861366,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-486,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,97,0,59
+1741479861665,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-487,text,false,,6995,2412,1,1,https://lapor.folkatech.com/api/report,97,0,59
+1741479861968,93,HTTP Request 500-150,429,Too Many Requests,500-150 7-488,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,93,0,56
+1741479862268,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-489,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,101,0,61
+1741479862566,103,HTTP Request 500-150,429,Too Many Requests,500-150 7-490,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,103,0,63
+1741479862866,109,HTTP Request 500-150,429,Too Many Requests,500-150 7-491,text,false,,6995,2328,1,1,https://lapor.folkatech.com/api/report,108,0,64
+1741479863168,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-492,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,98,0,58
+1741479863466,110,HTTP Request 500-150,429,Too Many Requests,500-150 7-493,text,false,,6995,2340,1,1,https://lapor.folkatech.com/api/report,110,0,68
+1741479863765,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-494,text,false,,6995,2364,1,1,https://lapor.folkatech.com/api/report,98,0,61
+1741479864070,97,HTTP Request 500-150,429,Too Many Requests,500-150 7-495,text,false,,6995,2316,1,1,https://lapor.folkatech.com/api/report,97,0,58
+1741479864365,101,HTTP Request 500-150,429,Too Many Requests,500-150 7-496,text,false,,6995,2400,1,1,https://lapor.folkatech.com/api/report,101,0,61
+1741479864673,106,HTTP Request 500-150,429,Too Many Requests,500-150 7-497,text,false,,6995,2388,1,1,https://lapor.folkatech.com/api/report,106,0,65
+1741479864962,111,HTTP Request 500-150,429,Too Many Requests,500-150 7-498,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,110,0,66
+1741479865267,107,HTTP Request 500-150,429,Too Many Requests,500-150 7-499,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,107,0,65
+1741479865566,98,HTTP Request 500-150,429,Too Many Requests,500-150 7-500,text,false,,6995,2424,1,1,https://lapor.folkatech.com/api/report,98,0,60
