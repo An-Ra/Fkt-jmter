@@ -28,7 +28,7 @@ jmeter -n -t Api\ Performance\ Foklatech.jmx -l test-dir/report.csv -e -o Result
 
 ## 📊 Hasil & Statistik
 
-Laporan hasil pengujian akan tersedia dalam bentuk statistik dan grafik di direktori `Results/`. Berikut contoh hasil yang bisa diisi nanti:
+Laporan hasil pengujian akan tersedia dalam bentuk statistik dan grafik di direktori `Results/`.
 
 <img width="1411" alt="image" src="https://github.com/user-attachments/assets/7e885d4c-3582-44a5-a9e5-9b10a234b895" />
 
