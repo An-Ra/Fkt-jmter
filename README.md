@@ -45,8 +45,8 @@ Laporan hasil pengujian akan tersedia dalam bentuk statistik dan grafik di direk
 
 ## 🔎 Temuan
 
-- **Endpoint POST `/api/report`** memiliki validasi hanya 60 request dalam satu waktu, selebihnya akan error **429 Too Many Requests**.
-- **100% error 429 Too Many Requests** saat batas request terlampaui.
+- **Endpoint POST `/api/report`** memiliki validasi hanya 60 request dalam satu waktu
+- **429 Too Many Requests** saat batas request terlampaui.
 - Dari **140 request gagal**, dengan rate **3.3 request/detik**, API baru bisa menerima request kembali setelah **42.42 detik**.
 - **Throughput tanpa error** berada di **0.84 request/detik**.
 - Jika **100 request dikirim dalam 1 detik**, beberapa request mengalami kegagalan dalam satu antrian
