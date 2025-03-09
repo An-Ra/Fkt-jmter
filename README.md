@@ -10,8 +10,8 @@ Repositori ini berisi pengujian performa API menggunakan Apache JMeter.
 
 2. **Clone Repository**
    ```bash
-   git clone https://github.com/username/repository.git
-   cd repository
+   git clone https://github.com/An-Ra/Fkt-jmter.git
+   cd Fkt-jmter
    ```
 
 3. **Persiapkan Test Plan**
